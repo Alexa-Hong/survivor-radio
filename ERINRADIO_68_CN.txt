@@ -10,70 +10,70 @@
 [Translations]
 
 	//0. ORIGINAL [#FFFF80C0]: <Krrzzzzz....>
-	1b5cc400-2559-42f5-b42f-5652f5dce1a1 = 
+	1b5cc400-2559-42f5-b42f-5652f5dce1a1 = <ÂóûÂóû...Âóû>
 
 	//1. ORIGINAL [#FFFF80C0]: This is Erin Fontaine.
-	fdb53cf6-3a15-47c9-a588-8b9e86b7b186 = 
+	fdb53cf6-3a15-47c9-a588-8b9e86b7b186 = ËøôÈáåÊòØËâæÁê≥¬∑Êñπ‰∏π
 
 	//2. ORIGINAL [#FFFF80C0]: To anyone else out there...
-	c0b44bcb-9370-4485-8e40-61f30ce0bb89 = 
+	c0b44bcb-9370-4485-8e40-61f30ce0bb89 = ÁªôÊâÄÊúâËÉΩÂê¨Âà∞ÁöÑ‰∫∫...
 
 	//3. ORIGINAL [#FFFF80C0]: I know you probably feel alone...
-	6504b6a7-ba34-44b1-a844-4f1b6c4387cb = 
+	6504b6a7-ba34-44b1-a844-4f1b6c4387cb = ‰Ω†‰ª¨‰πüËÆ∏ÊÑüÂà∞Â≠§Âçï...
 
 	//4. ORIGINAL [#FFFF80C0]: But you're not.
-	d98370f1-63f3-4e54-8710-39ec8df1ffb4 = 
+	d98370f1-63f3-4e54-8710-39ec8df1ffb4 = ÂèØÂÖ∂ÂÆûÂπ∂ÈùûÂ¶ÇÊ≠§
 
 	//5. ORIGINAL [#FFFF80C0]: ...
-	25f866ad-943f-412c-a685-622018c8266a = 
+	25f866ad-943f-412c-a685-622018c8266a = ...
 
 	//6. ORIGINAL [#FFFF80C0]: Whatever is going on out there,
-	9b05b5ad-e5c7-44ee-906f-5150d21e31c3 = 
+	9b05b5ad-e5c7-44ee-906f-5150d21e31c3 = ‰∏çÁÆ°Â§ñÈù¢ÂèëÁîü‰∫Ü‰ªÄ‰πàÔºå
 
 	//7. ORIGINAL [#FFFF80C0]: just know that humanities' survival depends on you.
-	6886df9b-e82a-41e1-bc1d-31d712b05354 = 
+	6886df9b-e82a-41e1-bc1d-31d712b05354 = Ë∞®ËÆ∞‰∫∫Á±ªÁöÑÁîüÂ≠òÂèñÂÜ≥‰∫é‰Ω†
 
 	//8. ORIGINAL [#FFFF80C0]: Don't give up.
-	c52032cc-a98a-40e2-abb5-b282466b1203 = 
+	c52032cc-a98a-40e2-abb5-b282466b1203 = ‰∏çË¶ÅÊîæÂºÉ
 
 	//9. ORIGINAL [#FFFF80C0]: I will continue to broadcast on this frequency.
-	26d2ffa0-df3c-4c4f-9d19-c856e04b45cb = 
+	26d2ffa0-df3c-4c4f-9d19-c856e04b45cb = Êàë‰ºöÁªßÁª≠Âú®Ëøô‰∏™È¢ëÁéáÂπøÊí≠
 
 	//10. ORIGINAL [#FFFF80C0]: For now...
-	c95a66bd-07f8-4e4d-8343-1bc1f15af15a = 
+	c95a66bd-07f8-4e4d-8343-1bc1f15af15a = Áé∞Âú®...
 
 	//11. ORIGINAL [#FFFF80C0]: I think I'll just tell you about myself a little bit.
-	4ac7cf60-6280-4520-a6d0-45a46f90cb35 = 
+	4ac7cf60-6280-4520-a6d0-45a46f90cb35 = ÊàëÊÉ≥ÂêëÂ§ßÂÆ∂‰ªãÁªç‰∏Ä‰∏ãËá™Â∑±
 
 	//12. ORIGINAL [#FFFF80C0]: I was born in Montana.
-	c2b56c17-ca04-4e1f-8372-f6ad123fa98b = 
+	c2b56c17-ca04-4e1f-8372-f6ad123fa98b = ÊàëÂá∫ÁîüÂú®ËíôÂ°îÁ∫≥Â∑û
 
 	//13. ORIGINAL [#FFFF80C0]: My mom was a nurse.
-	0ad0ce9c-1928-4383-bf6b-10481f11d68c = 
+	0ad0ce9c-1928-4383-bf6b-10481f11d68c = ÊàëÊØç‰∫≤ÊòØ‰∏ÄÂêçÊä§Â£´
 
 	//14. ORIGINAL [#FFFF80C0]: My dad died overseas before I was born.
-	d002c23a-83d8-4afe-885e-50bae1801de4 = 
+	d002c23a-83d8-4afe-885e-50bae1801de4 = ÊàëÁà∂‰∫≤‰∫éÊàëÂá∫ÁîüÂâçÂú®Êµ∑Â§ñÂ∞±Âéª‰∏ñ‰∫Ü
 
 	//15. ORIGINAL [#FFFF80C0]: His plane was shot down, I heard.
-	6b1ca565-22d1-4470-b4c0-7e89b442c2a7 = 
+	6b1ca565-22d1-4470-b4c0-7e89b442c2a7 = ÊàëÂê¨ËØ¥‰ªñÊê≠‰πòÁöÑÁè≠Êú∫Ë¢´ÂáªËêΩ
 
 	//16. ORIGINAL [#FFFF80C0]: Not sure if that's true or something mom made up.
-	cd56c2b2-d634-451d-8419-5d4908b9af4e = 
+	cd56c2b2-d634-451d-8419-5d4908b9af4e = Êàë‰∏çÁ°ÆÂÆöÈÇ£ÊòØ‰∏çÊòØÁúüÁöÑËøòÊòØËØ¥Âè™ÊòØ‰∏Ä‰∫õÊàëÊØç‰∫≤ÁºñÁöÑËÉ°ËØù
 
 	//17. ORIGINAL [#FFFF80C0]: Anyways, I moved to KY when I turned 20.
-	f03155d0-745b-4fbb-89f3-afc962de8429 = 
+	f03155d0-745b-4fbb-89f3-afc962de8429 = Êàë20Â≤ÅÁöÑÊó∂ÂÄôÊê¨Âà∞ËÇØÂ°îÂü∫Â∑û
 
 	//18. ORIGINAL [#FFFF80C0]: And have been here for the last 7 years.
-	e14078a0-af77-4d92-9e61-a09033a3abed = 
+	e14078a0-af77-4d92-9e61-a09033a3abed = ‰∏ÄÂëÜÂ∞±ÊòØ7Âπ¥
 
 	//19. ORIGINAL [#FFFF80C0]: I was studying microbiology, but I dropped out.
-	8a43b42e-d3dd-4ad1-91ab-24f215e0ff3e = 
+	8a43b42e-d3dd-4ad1-91ab-24f215e0ff3e = ÊàëÂ≠¶ÁöÑÊòØÂæÆÁîüÁâ©Â≠¶Ôºå‰ΩÜÊàëÂêéÈù¢ÈÄÄÂ≠¶‰∫Ü
 
 	//20. ORIGINAL [#FFFF80C0]: Cuz, playing in a band was more fun.
-	280e1083-2fb7-4851-ad02-8de4286d7fb6 = 
+	280e1083-2fb7-4851-ad02-8de4286d7fb6 = Âõ†‰∏∫...ÁªÑ‰∏™‰πêÈòüË¶ÅÊúâË∂£ÂæóÂ§ö
 
 	//21. ORIGINAL [#FFFF80C0]: People told me that was a dumb idea, but hey,
-	163935d9-0091-423a-98bc-0543516304c0 = 
+	163935d9-0091-423a-98bc-0543516304c0 = Â§ßÂÆ∂ÈÉΩËØ¥ÈÇ£ÊòØÊÑöË†¢ÁöÑÊÉ≥Ê≥ïÔºå‰∏çËøáÁÆ°ÂÆÉÂë¢
 
 	//22. ORIGINAL [#FFFF80C0]: My band, Naturally Mortal, RULES.
 	81a2b5ff-dc1d-4afa-be8b-66f4f1a9bdcd = 
@@ -2022,7 +2022,7 @@
 	//670. ORIGINAL [Blue]: [img=music]Your own personal Jesus[img=music]
 	b6bfa955-4c9c-4183-8c17-67cc015f8e83 = 
 
-	//671. ORIGINAL [Blue]: [img=music]By the telephone°≠ [img=music]
+	//671. ORIGINAL [Blue]: [img=music]By the telephoneÔºÉ [img=music]
 	7978a4a6-4d46-4305-9067-d776756eea5e = 
 
 	//672. ORIGINAL [#FFFF80C0]: Alrighty, see ya.
@@ -6768,7 +6768,7 @@
 	//2252. ORIGINAL [#FF00C663]: On that day there will be neither sunlight nor cold, frosty darkness.
 	1fa77e4f-b969-4d38-90fc-91994fec84c7 = 
 
-	//2253. ORIGINAL [#FF00C663]: It will be a unique day°™a day known only to the Lord°™with no distinction between day and night.
+	//2253. ORIGINAL [#FF00C663]: It will be a unique day„Äûa day known only to the Lord„Äûwith no distinction between day and night.
 	2cc4ce36-052c-4b52-bbac-a935c97430fa = 
 
 	//2254. ORIGINAL [#FF00C663]: When evening comes, there will be light.
@@ -6858,7 +6858,7 @@
 	//2282. ORIGINAL [#FF00C663]: And casts it down to dust.
 	40624bfa-c808-4eb6-aa1b-cb37552f1e65 = 
 
-	//2283. ORIGINAL [#FF00C663]: Feet trample it down°™
+	//2283. ORIGINAL [#FF00C663]: Feet trample it down„Äû
 	35f252a4-b0ed-4f50-976e-50aca27afd6a = 
 
 	//2284. ORIGINAL [#FF00C663]: the feet of the oppressed,     the footsteps of the poor.
@@ -6933,10 +6933,10 @@
 	//2307. ORIGINAL [#FF00C663]: We have not brought salvation to the earth,     and the people of the world have not come to life.
 	dac7dc96-427c-4c9b-836a-e91a897c8c79 = 
 
-	//2308. ORIGINAL [#FF00C663]: But your dead will live, Lord; their bodies will rise°™
+	//2308. ORIGINAL [#FF00C663]: But your dead will live, Lord; their bodies will rise„Äû
 	0dd94185-a1d2-4fc0-8396-8ab765683fbd = 
 
-	//2309. ORIGINAL [#FF00C663]: let those who dwell in the dust wake up and shout for joy°™
+	//2309. ORIGINAL [#FF00C663]: let those who dwell in the dust wake up and shout for joy„Äû
 	cd2c70d6-e425-4a7b-afda-1e149978cb8b = 
 
 	//2310. ORIGINAL [#FF00C663]: your dew is like the dew of the morning;
@@ -7431,7 +7431,7 @@
 	//2473. ORIGINAL [#FF00C663]: Mark 9:23
 	868c88b3-474c-4805-8239-bf40a460a4fa = 
 
-	//2474. ORIGINAL [#FF00C663]: And Jesus said to him, °∞°ÆIf you can°Ø! All things are possible for one who believes.°±
+	//2474. ORIGINAL [#FF00C663]: And Jesus said to him, ‚ÄªÔºÜIf you canÔºä! All things are possible for one who believes.¬ß
 	bbd63492-bf0d-4195-b8e2-478b694849d6 = 
 
 	//2475. ORIGINAL [#FF00C663]: Psalm 43:5
@@ -7638,7 +7638,7 @@
 	//2542. ORIGINAL [#FF00C663]: Lamentations 3:24
 	2ba5c7b5-3bf1-4739-a27d-bd23464138a3 = 
 
-	//2543. ORIGINAL [#FF00C663]: °∞The Lord is my portion,°± says my soul, °∞therefore I will hope in him.°±
+	//2543. ORIGINAL [#FF00C663]: ‚ÄªThe Lord is my portion,¬ß says my soul, ‚Äªtherefore I will hope in him.¬ß
 	50e1f98e-a55f-432b-80e5-836192e9010b = 
 
 	//2544. ORIGINAL [#FF00C663]: Zephaniah 3:17
@@ -9882,7 +9882,7 @@
 	//3290. ORIGINAL [#FFE10071]: As a stone inside a tree,
 	90f54b51-e410-4977-a515-7e0cc5e0215e = 
 
-	//3291. ORIGINAL [#FFE10071]: I°Øll help your words outlive thee.
+	//3291. ORIGINAL [#FFE10071]: IÔºäll help your words outlive thee.
 	21f37b4b-2445-43ff-b7b8-479b5bc1ca7a = 
 
 	//3292. ORIGINAL [#FFE10071]: But if you push me as I stand,
@@ -9996,7 +9996,7 @@
 	//3328. ORIGINAL [#FFD29D4F]: Delta this is India, go ahead, over.
 	370092ca-6e3d-496a-ac48-30f25100999f = 
 
-	//3329. ORIGINAL [#FF4F62AE]: We°Øve arrived at the target location. Still very little contact with biters, though we
+	//3329. ORIGINAL [#FF4F62AE]: WeÔºäve arrived at the target location. Still very little contact with biters, though we
 	860a9deb-38dc-46ad-9e26-a338fddf2fb9 = 
 
 	//3330. ORIGINAL [#FF4F62AE]: The demolition team has begun planting explosives along the bridge support
@@ -10083,43 +10083,43 @@
 	//3357. ORIGINAL [Silver]: <kzzzrttt>
 	930aff94-ea12-4a7b-ad86-a5f552679409 = 
 
-	//3358. ORIGINAL [#FF00C663]: HQ, ßÔß‰ß‡ ß‹ß—ß·ß⁄ß‰ß—ßﬂ ßÆß⁄ßÁß—ß⁄ß› ß≥ßﬁß⁄ß‚ßﬂß‡ß”. ßøß‰ß‡ ß‹ß‡ßﬁß—ßﬂß’ß— "ß¢ß‚ß—ß”ß‡" 3-1, ß”ßÌ ßﬁß÷ßﬂßÒ ß„ß›ßÌßÍß⁄ß‰ß÷?
+	//3358. ORIGINAL [#FF00C663]: HQ, ÊîπÊâæÊäâ ÊäóÂøòÊâ≠ÊàëÊâæÂøòÊâ∂ Â¶ôÊàëÊäíÂøòÊàëÊäñ Â¶äÊäÄÊàëÊääÊâ∂ÊäâÂøó. Â∞øÊâæÊäâ ÊäóÊäâÊäÄÂøòÊâ∂Âø±Âøò "ÂùéÊääÂøòÂøóÊäâ" 3-1, ÂøóÊäë ÊäÄÂø´Êâ∂Êî∏ ÊâºÊäñÊäëÊâÆÊàëÊâæÂø´?
 	22b37c3c-62d2-40dc-8e66-9c588f7bcc5d = 
 
-	//3359. ORIGINAL [#FF4F62AE]: ßÆßÌ ß„ß›ßÂßÍß—ß÷ßﬁ ß”ß—ß„ 3-1.
+	//3359. ORIGINAL [#FF4F62AE]: Â¶ôÊäë ÊâºÊäñÊâπÊâÆÂøòÂø´ÊäÄ ÂøóÂøòÊâº 3-1.
 	b2320a59-eb1a-48ea-9fe6-9664679fb4c5 = 
 
-	//3360. ORIGINAL [#FF00C663]: ßµ ßﬂß—ß„ ß„ß›ß⁄ßÍß‹ß‡ßﬁ ßﬁßﬂß‡ß‘ß‡ ß‘ß‚ß—ßÿß’ß—ßﬂß„ß‹ß⁄ßÁ ß⁄ ßﬂß—ßﬁ ßﬂß÷ ßÁß”ß—ß‰ß—ß÷ß‰ ß·ß—ß‰ß‚ß‡ßﬂß‡ß” ßﬂß— ßÔß‰ß⁄ßÁ ßÊß‚ß⁄ß‹ß‡ß”... ß¨ß‰ß‡ ß‡ßﬂß⁄ ß”ß‡ß‡ß“ßÎß÷?!
+	//3360. ORIGINAL [#FF00C663]: Â≠ù Êâ∂ÂøòÊâº ÊâºÊäñÊàëÊâÆÊäóÊäâÊäÄ ÊäÄÊâ∂ÊäâÂøçÊäâ ÂøçÊääÂøòÂø™Âø±ÂøòÊâ∂ÊâºÊäóÊàëÊäí Êàë Êâ∂ÂøòÊäÄ Êâ∂Âø´ ÊäíÂøóÂøòÊâæÂøòÂø´Êâæ Êâ≠ÂøòÊâæÊääÊäâÊâ∂ÊäâÂøó Êâ∂Âøò ÊîπÊâæÊàëÊäí Êâ≥ÊääÊàëÊäóÊäâÂøó... Â¶ûÊâæÊäâ ÊäâÊâ∂Êàë ÂøóÊäâÊäâÂøåÊäïÂø´?!
 	a38128a3-e88c-45af-b143-33da1b5bda29 = 
 
-	//3361. ORIGINAL [#FF4F62AE]: ßµß„ß·ß‡ß‹ß‡ß€ß‰ß÷ß„ßÓ, 3-1. ßÆßÌ ß‡ß‰ß·ß‚ß—ß”ß⁄ßﬁ ß”ß—ßﬁ ß‘ß‚ßÂßŸß‡ß”ß⁄ß‹ ß„ ß·ß—ß‰ß‚ß‡ßﬂß—ßﬁß⁄.
+	//3361. ORIGINAL [#FF4F62AE]: Â≠ùÊâºÊâ≠ÊäâÊäóÊäâÊäÑÊâæÂø´ÊâºÊäÜ, 3-1. Â¶ôÊäë ÊäâÊâæÊâ≠ÊääÂøòÂøóÊàëÊäÄ ÂøóÂøòÊäÄ ÂøçÊääÊâπÊàíÊäâÂøóÊàëÊäó Êâº Êâ≠ÂøòÊâæÊääÊäâÊâ∂ÂøòÊäÄÊàë.
 	e2f7e026-a5aa-41a2-b1eb-02ca482acd76 = 
 
-	//3362. ORIGINAL [#FF00C663]: ßπß‰ß‡ ß’ß÷ß›ß—ß‰ßÓ ß„ ß‘ß‚ß—ßÿß’ß—ßﬂß„ß‹ß⁄ßﬁß⁄? ßµ ßﬂß—ß„ ß÷ß„ß‰ßÓ ßÿß÷ßﬂßÎß⁄ßﬂßÌ ß„ ß’ß÷ß‰ßÓßﬁß⁄...
+	//3362. ORIGINAL [#FF00C663]: ÂÆåÊâæÊäâ Âø±Âø´ÊäñÂøòÊâæÊäÜ Êâº ÂøçÊääÂøòÂø™Âø±ÂøòÊâ∂ÊâºÊäóÊàëÊäÄÊàë? Â≠ù Êâ∂ÂøòÊâº Âø´ÊâºÊâæÊäÜ Âø™Âø´Êâ∂ÊäïÊàëÊâ∂Êäë Êâº Âø±Âø´ÊâæÊäÜÊäÄÊàë...
 	87cc4b33-d9d3-46ae-895e-a2a884a7abf4 = 
 
-	//3363. ORIGINAL [#FF4F62AE]: ßµß“ß÷ß€ß‰ß÷ ß⁄ßÁ.
+	//3363. ORIGINAL [#FF4F62AE]: Â≠ùÂøåÂø´ÊäÑÊâæÂø´ ÊàëÊäí.
 	ff883aef-d787-43c1-bef6-5298fb2a50af = 
 
-	//3364. ORIGINAL [#FFCC6868]: ßπß¥ß∞?! ßπß¥ß∞ ß∞ßØ, <krrrzz> ß≥ß¨ß°ß©ß°ß≠?!
+	//3364. ORIGINAL [#FFCC6868]: ÂÆåÂ¶•Â¶ç?! ÂÆåÂ¶•Â¶ç Â¶çÂ¶ñ, <krrrzz> Â¶äÂ¶ûÂùáÂ¶ùÂùáÂ¶£?!
 	1c6422c1-306e-4420-a2de-acae30080ddd = 
 
-	//3365. ORIGINAL [#FF00C663]: ßπß÷ß‚ß‰, ß£ß—ßﬂßÒ, ß·ß‚ß‡ß”ß÷ß‚ßÓ ßÈß‰ß‡ ß‰ß—ßﬁ
+	//3365. ORIGINAL [#FF00C663]: ÂÆåÂø´ÊääÊâæ, ÂúæÂøòÊâ∂Êî∏, Êâ≠ÊääÊäâÂøóÂø´ÊääÊäÜ ÊäòÊâæÊäâ ÊâæÂøòÊäÄ
 	447bda82-321d-4d62-ab93-4ce373370fb7 = 
 
-	//3366. ORIGINAL [#FFCC6868]: ßÆß⁄ßÍß—... ß∞ßﬂß⁄ ß·ß‚ß‡ß‚ß”ß—ß›ß⁄ß„ßÓ! ß™ßÁ ß„ß‡ß‰ßﬂß⁄!
+	//3366. ORIGINAL [#FFCC6868]: Â¶ôÊàëÊâÆÂøò... Â¶çÊâ∂Êàë Êâ≠ÊääÊäâÊääÂøóÂøòÊäñÊàëÊâºÊäÜ! Â¶íÊäí ÊâºÊäâÊâæÊâ∂Êàë!
 	9db9fad4-8b4a-43b8-ae38-b8ec6f4aa82b = 
 
-	//3367. ORIGINAL [#FF00C663]: <krrrzz>... HQ, ßÔß‰ß‡ 3-1. ßÆßÌ ß·ß‡ß‹ß⁄ß’ß—ß÷ßﬁ ß„ß”ß‡ß ß·ß‡ßŸß⁄ßËß⁄ß.
+	//3367. ORIGINAL [#FF00C663]: <krrrzz>... HQ, ÊîπÊâæÊäâ 3-1. Â¶ôÊäë Êâ≠ÊäâÊäóÊàëÂø±ÂøòÂø´ÊäÄ ÊâºÂøóÊäâÊîª Êâ≠ÊäâÊàíÊàëÊâØÊàëÊîª.
 	aedc4669-b755-49b1-b453-ad252471329b = 
 
-	//3368. ORIGINAL [#FF4F62AE]: ßπß‰ß‡ ß„ß›ßÂßÈß⁄ß›ß‡ß„ßÓ? 3-1, ßÒ ß„ß›ßÌßÍß—ß› ß”ßÌß„ß‰ß‚ß÷ß›ßÌ.
+	//3368. ORIGINAL [#FF4F62AE]: ÂÆåÊâæÊäâ ÊâºÊäñÊâπÊäòÊàëÊäñÊäâÊâºÊäÜ? 3-1, Êî∏ ÊâºÊäñÊäëÊâÆÂøòÊäñ ÂøóÊäëÊâºÊâæÊääÂø´ÊäñÊäë.
 	590e62ed-79bb-4abd-8668-fae2296ad912 = 
 
 	//3369. ORIGINAL [Red]: *growling and moaning*
 	68e1420d-3ebe-4279-a827-92dc5d093b88 = 
 
-	//3370. ORIGINAL [#FF4F62AE]: ßπß÷ß‚ß‰...
+	//3370. ORIGINAL [#FF4F62AE]: ÂÆåÂø´ÊääÊâæ...
 	b1ddbda3-3727-455d-9e8a-8f1943b42616 = 
 
 	//3371. ORIGINAL [#FF4F62AE]: *shuffling noises*
@@ -10338,22 +10338,22 @@
 	//3442. ORIGINAL [#FFE10071]: Hello? Is anyone out there?
 	e9ab77f7-ed7b-4d5f-9db3-fa89cafb32ef = 
 
-	//3443. ORIGINAL [#FFE10071]: If anyone can hear this, you need to know that you°Øre not alone out there.
+	//3443. ORIGINAL [#FFE10071]: If anyone can hear this, you need to know that youÔºäre not alone out there.
 	48dce623-c774-4ad0-989e-223a7b278595 = 
 
 	//3444. ORIGINAL [#FFE10071]: The fever missed us. Somehow, we were able to get out of Riverside in one piece.
 	556c0eca-3d3e-4538-958c-0029fbf9a1ae = 
 
-	//3445. ORIGINAL [#FFE10071]: I guess I should introduce myself. I°Øm Dianne Caldwell.
+	//3445. ORIGINAL [#FFE10071]: I guess I should introduce myself. IÔºäm Dianne Caldwell.
 	5b9a3da2-5699-4a62-90b7-4e576d55de63 = 
 
-	//3446. ORIGINAL [#FFE10071]: For those of you Riverside locals, odds are you°Øve frequented my clothing store at least once or twice.
+	//3446. ORIGINAL [#FFE10071]: For those of you Riverside locals, odds are youÔºäve frequented my clothing store at least once or twice.
 	440095ca-4ad7-40d8-9974-8906a4255698 = 
 
-	//3447. ORIGINAL [#FFE10071]: Not like I°Øm going anywhere near that place anytime soon.
+	//3447. ORIGINAL [#FFE10071]: Not like IÔºäm going anywhere near that place anytime soon.
 	44bd047a-d539-4fb7-9b41-44052307c8da = 
 
-	//3448. ORIGINAL [#FFE10071]: I°Øm holed up in a farmhouse just outside the city with my husband, Paul, and three others who I°Øve not gotten fully acquainted with yet.
+	//3448. ORIGINAL [#FFE10071]: IÔºäm holed up in a farmhouse just outside the city with my husband, Paul, and three others who IÔºäve not gotten fully acquainted with yet.
 	36d52acd-ec81-4a44-8c62-753163e12802 = 
 
 	//3449. ORIGINAL [#FFE10071]: In my defense, it was fight or flight back in Riverside. No time for introductions, you know?
@@ -10365,13 +10365,13 @@
 	//3451. ORIGINAL [#FFE10071]: We were able to scrape together enough food to last us little over a week.
 	a50117a5-4d38-4935-9c1a-a9d850fa6654 = 
 
-	//3452. ORIGINAL [#FFE10071]: Would°Øve been able to get more from the supermarket, but°≠ those things are everywhere.
+	//3452. ORIGINAL [#FFE10071]: WouldÔºäve been able to get more from the supermarket, butÔºÉ those things are everywhere.
 	eeba09eb-baa3-48a7-87d8-7f3ad2479b48 = 
 
-	//3453. ORIGINAL [#FFE10071]: It°Øs relatively safe here. We had to kill a couple of them that strolled up to the house, but it°Øs nothing compared to the city.
+	//3453. ORIGINAL [#FFE10071]: ItÔºäs relatively safe here. We had to kill a couple of them that strolled up to the house, but itÔºäs nothing compared to the city.
 	8f73b08a-ab28-48cb-aa48-a62ffe2a8204 = 
 
-	//3454. ORIGINAL [#FFE10071]: For those of you listening, odds are you°Øve had to kill one by now as well.
+	//3454. ORIGINAL [#FFE10071]: For those of you listening, odds are youÔºäve had to kill one by now as well.
 	c4419db1-3b9d-460f-b119-4516f927c81a = 
 
 	//3455. ORIGINAL [#FFE10071]: I mean, I have, at least. Not like I had much of a choice, you know?
@@ -10380,10 +10380,10 @@
 	//3456. ORIGINAL [#FFE10071]: I mean, you hit one of these things in the head and it barely seems to faze them.
 	4567c272-db3d-4591-8792-c7129a7d7804 = 
 
-	//3457. ORIGINAL [#FFE10071]: Sure, it°Øll stun them for a moment, but, unless you cave their skulls in they°Øll just keep coming.
+	//3457. ORIGINAL [#FFE10071]: Sure, itÔºäll stun them for a moment, but, unless you cave their skulls in theyÔºäll just keep coming.
 	6f66a2a2-3f5d-450f-9f20-a3ee38b5e273 = 
 
-	//3458. ORIGINAL [#FFE10071]: Anyway, we°Øre going out to scavenge the nearby farmhouses for supplies tomorrow morning.
+	//3458. ORIGINAL [#FFE10071]: Anyway, weÔºäre going out to scavenge the nearby farmhouses for supplies tomorrow morning.
 	9539b174-d981-4fe7-a9f3-02d62f99fe95 = 
 
 	//3459. ORIGINAL [#FFE10071]: Odds are though, the farmers that own them got the fever, unlike the one that so graciously took us in.
@@ -10401,16 +10401,16 @@
 	//3463. ORIGINAL [#FFE10071]: Given that everyone in the group besides me had a gun up until this point, they handed it off to me.
 	4099eb19-a55a-4c68-9fc1-296da9fd7ce6 = 
 
-	//3464. ORIGINAL [#FFE10071]: Never shot one before, but it°Øs a shotgun. Pretty hard to miss if I nail one of them at medium range, right?
+	//3464. ORIGINAL [#FFE10071]: Never shot one before, but itÔºäs a shotgun. Pretty hard to miss if I nail one of them at medium range, right?
 	afc6b829-10dd-4649-8a29-579db3e9f4be = 
 
 	//3465. ORIGINAL [#FFE10071]: Just as I figured, the farmers in the neighboring houses had turned.
 	578006b0-4934-4ab3-9a94-bf3c8375166d = 
 
-	//3466. ORIGINAL [#FFE10071]: There°Øs almost nowhere left that°Øs going to be safe unless you clear it out.
+	//3466. ORIGINAL [#FFE10071]: ThereÔºäs almost nowhere left thatÔºäs going to be safe unless you clear it out.
 	b88eaf9c-3f73-4a02-9277-8c26d1c88f01 = 
 
-	//3467. ORIGINAL [#FFE10071]: Well, there°Øs an exception to that, actually. There°Øs this group of survivors that sent out a broadcast from Rosewood.
+	//3467. ORIGINAL [#FFE10071]: Well, thereÔºäs an exception to that, actually. ThereÔºäs this group of survivors that sent out a broadcast from Rosewood.
 	8e398b64-da15-4582-afdc-77e1fff85f29 = 
 
 	//3468. ORIGINAL [#FFE10071]: It's a wide area to search, I know. Word is there's eight of them there and they need more people.
@@ -10419,25 +10419,25 @@
 	//3469. ORIGINAL [#FFE10071]: They're planning on building some sort of self-sustainable survivalist compound.
 	6666b1fe-ab0e-46ea-9dd2-bddf3615dcbe = 
 
-	//3470. ORIGINAL [#FFE10071]: We don°Øt have a vehicle yet, so heading there°Øs not an option at the moment.
+	//3470. ORIGINAL [#FFE10071]: We donÔºät have a vehicle yet, so heading thereÔºäs not an option at the moment.
 	e043851f-3fc4-41fc-9af7-353f4c31a7d4 = 
 
-	//3471. ORIGINAL [#FFE10071]: Once we get one large enough to fit everyone, we°Øre heading straight there.
+	//3471. ORIGINAL [#FFE10071]: Once we get one large enough to fit everyone, weÔºäre heading straight there.
 	abbe8bf6-e357-4ff0-8cc2-b8dce1cdfa91 = 
 
-	//3472. ORIGINAL [#FFE10071]: That unfortunately means going back into the city though. Think if we get desperate enough we°Øll start drawing straws.
+	//3472. ORIGINAL [#FFE10071]: That unfortunately means going back into the city though. Think if we get desperate enough weÔºäll start drawing straws.
 	151e13ab-a939-4bf2-a706-2baf8f18baa8 = 
 
-	//3473. ORIGINAL [#FFE10071]: Hope it doesn°Øt come to that.
+	//3473. ORIGINAL [#FFE10071]: Hope it doesnÔºät come to that.
 	70deac87-3f4f-45f7-8810-c45e6313170b = 
 
 	//3474. ORIGINAL [#FFE10071]: Talk to you tomorrow everyone.
 	c9ac7353-ebd7-4adb-a353-5a354809829f = 
 
-	//3475. ORIGINAL [#FFE10071]: Think we°Øll be going into town looking for that vehicle sooner than planned.
+	//3475. ORIGINAL [#FFE10071]: Think weÔºäll be going into town looking for that vehicle sooner than planned.
 	1539f3bc-7a7b-4ec8-bc61-752e82e61781 = 
 
-	//3476. ORIGINAL [#FFE10071]: Don°Øt know how it happened, but one of those things got inside the house last night.
+	//3476. ORIGINAL [#FFE10071]: DonÔºät know how it happened, but one of those things got inside the house last night.
 	0501c119-3a6d-4167-b192-6daaa356a60f = 
 
 	//3477. ORIGINAL [#FFE10071]: None of us heard it breaking in.
@@ -10452,16 +10452,16 @@
 	//3480. ORIGINAL [#FFE10071]: Smashed its skull with a frying pan. Was the only thing I could get my hands on at the time.
 	e01fce79-ceb5-4c97-a757-f4bbb8a113f8 = 
 
-	//3481. ORIGINAL [#FFE10071]: He°Øs fine, though. Just shaken up. Had me worried for a moment there.
+	//3481. ORIGINAL [#FFE10071]: HeÔºäs fine, though. Just shaken up. Had me worried for a moment there.
 	ed7324eb-affc-4481-af3b-a5f7fcdaa1e4 = 
 
-	//3482. ORIGINAL [#FFE10071]: I°Øm going to volunteer to go back into the city. It°Øs not safe here.
+	//3482. ORIGINAL [#FFE10071]: IÔºäm going to volunteer to go back into the city. ItÔºäs not safe here.
 	45a5e876-9827-479b-b8a7-2b17f68fa2b6 = 
 
-	//3483. ORIGINAL [#FFE10071]: Even as far outside the city as we are, it°Øs just not safe to stay in one place like this.
+	//3483. ORIGINAL [#FFE10071]: Even as far outside the city as we are, itÔºäs just not safe to stay in one place like this.
 	a2ae644a-b4c4-48b6-9760-8b2bc1e78222 = 
 
-	//3484. ORIGINAL [#FFE10071]: We°Øre going to find that camp one way or another.
+	//3484. ORIGINAL [#FFE10071]: WeÔºäre going to find that camp one way or another.
 	c3b85b56-8247-490c-8783-6eae384c4600 = 
 
 	//3485. ORIGINAL [#FFE10071]: Talk to you tomorrow. Or not, depends on how the next few hours go for me.
@@ -10473,46 +10473,46 @@
 	//3487. ORIGINAL [#FFE10071]: Hey there. Dianne again. Still alive.
 	a8d93e75-f281-4d49-a969-2bf897846d90 = 
 
-	//3488. ORIGINAL [#FFE10071]: Made it back with a van to seat all of us. We°Øre leaving tonight.
+	//3488. ORIGINAL [#FFE10071]: Made it back with a van to seat all of us. WeÔºäre leaving tonight.
 	15b77c38-a3bc-4157-9dec-b4c0f2d75603 = 
 
-	//3489. ORIGINAL [#FFE10071]: Riverside°Øs lost.
+	//3489. ORIGINAL [#FFE10071]: RiversideÔºäs lost.
 	15d442f2-e19a-4a2a-99c7-3b9f6cd44e04 = 
 
 	//3490. ORIGINAL [#FFE10071]: Even more of those things are out on the streets now. For those of you listening, stay away from the cities.
 	ea8c841d-1b3a-4085-b73b-dc10404fa4f3 = 
 
-	//3491. ORIGINAL [#FFE10071]: It°Øs just death around every corner.
+	//3491. ORIGINAL [#FFE10071]: ItÔºäs just death around every corner.
 	28a85ad0-340d-463e-abe3-0a6077086b56 = 
 
 	//3492. ORIGINAL [#FFE10071]: Everywhere you look.
 	4b63e7ff-64b0-4702-8ddc-fbb57ebbe002 = 
 
-	//3493. ORIGINAL [#FFE10071]: Anyone that didn°Øt leave town°Øs out hiding out or dying in the streets.
+	//3493. ORIGINAL [#FFE10071]: Anyone that didnÔºät leave townÔºäs out hiding out or dying in the streets.
 	f92fc9e6-108d-47f3-b3d4-313cd6972250 = 
 
 	//3494. ORIGINAL [#FFE10071]: Saw this woman trying to get away from a group of them, but her leg was cut up badly.
 	820bb81e-897e-42ab-9495-36f6b949413e = 
 
-	//3495. ORIGINAL [#FFE10071]: What she cut it on, I couldn°Øt say. All I know is, they tore her apart. The screams°≠ God.
+	//3495. ORIGINAL [#FFE10071]: What she cut it on, I couldnÔºät say. All I know is, they tore her apart. The screamsÔºÉ God.
 	83dd183a-40d0-4a43-aa5f-ab0c558c6794 = 
 
 	//3496. ORIGINAL [#FFE10071]: The noise she was making was what got me the van to begin with. She drew their attention.
 	d903c8f5-33fc-43f2-b404-5e424aaad460 = 
 
-	//3497. ORIGINAL [#FFE10071]: It°Øs hard not to think about it. Hell, it°Øs all I°Øve been able to think about for the last few hours.
+	//3497. ORIGINAL [#FFE10071]: ItÔºäs hard not to think about it. Hell, itÔºäs all IÔºäve been able to think about for the last few hours.
 	98cb1952-51e1-4a70-96d8-4919f08488a5 = 
 
-	//3498. ORIGINAL [#FFE10071]: Paul°Øs asleep on the bed behind me. Said he needed some extra rest after the night before.
+	//3498. ORIGINAL [#FFE10071]: PaulÔºäs asleep on the bed behind me. Said he needed some extra rest after the night before.
 	c6339491-5ba4-4fb7-889c-c44a1b251465 = 
 
-	//3499. ORIGINAL [#FFE10071]: Anyway, we°Øre packing the van in about an hour. Just double checking for anything we might°Øve forgotten to put in the bags.
+	//3499. ORIGINAL [#FFE10071]: Anyway, weÔºäre packing the van in about an hour. Just double checking for anything we mightÔºäve forgotten to put in the bags.
 	b027b1c5-b82a-4dc8-8d83-2eb8c116033c = 
 
-	//3500. ORIGINAL [#FFE10071]: So, I guess I°Øll-
+	//3500. ORIGINAL [#FFE10071]: So, I guess IÔºäll-
 	3e822994-407c-420e-b753-1ec9632545a0 = 
 
-	//3501. ORIGINAL [#FFE10071]: Hm? Paul? Paul, what°Øs the matter?
+	//3501. ORIGINAL [#FFE10071]: Hm? Paul? Paul, whatÔºäs the matter?
 	0c70054c-bc2d-447f-991f-2517211d7204 = 
 
 	//3502. ORIGINAL [#FFE10071]: Why are you looking at me like that?
@@ -10575,13 +10575,13 @@
 	//3521. ORIGINAL [#FFE10071]: Dianne here.
 	2e5d164e-79a2-4199-b7f8-cc662c03633c = 
 
-	//3522. ORIGINAL [#FFE10071]: Paul°≠ turned. He must°Øve been concealing a bite.
+	//3522. ORIGINAL [#FFE10071]: PaulÔºÉ turned. He mustÔºäve been concealing a bite.
 	5e38b373-39fb-4da1-8416-281414482c89 = 
 
 	//3523. ORIGINAL [#FFE10071]: Somehow, was able to throw him off me and lock him in the room.
 	34ba80fc-7a18-442d-8a39-b95c84bdc575 = 
 
-	//3524. ORIGINAL [#FFE10071]: Looking back, I don°Øt know how I managed it.
+	//3524. ORIGINAL [#FFE10071]: Looking back, I donÔºät know how I managed it.
 	154fd46b-ffeb-45bd-bf10-1a8dbb94f4a9 = 
 
 	//3525. ORIGINAL [#FFE10071]: We found the camp in Rosewood. Just before we ran out of gas, too.
@@ -10596,7 +10596,7 @@
 	//3528. ORIGINAL [#FFE10071]: They're starting to build the walls as we speak. This place'll be a fortress before long.
 	a9dc4213-cd95-45e6-be9c-ba935b854ee8 = 
 
-	//3529. ORIGINAL [#FFE10071]: My walkie°Øs almost outta juice. Until I get more batteries for this thing, I won't be able to broadcast any longer.
+	//3529. ORIGINAL [#FFE10071]: My walkieÔºäs almost outta juice. Until I get more batteries for this thing, I won't be able to broadcast any longer.
 	33fa4db4-f19e-4cf5-a23b-3f0a68d608ae = 
 
 	//3530. ORIGINAL [#FFE10071]: Talk to you soon, folks. Keep safe.
@@ -10608,10 +10608,10 @@
 	//3532. ORIGINAL [#FFE10071]: Hey there, folks.
 	7a2f4406-0dc2-4011-b6f5-6097247e3f0e = 
 
-	//3533. ORIGINAL [#FFE10071]: Lot°Øs changed the last couple months, figured now°Øs the best time to start broadcasting again.
+	//3533. ORIGINAL [#FFE10071]: LotÔºäs changed the last couple months, figured nowÔºäs the best time to start broadcasting again.
 	a42460f7-767d-4881-9cad-4f3339f1a10e = 
 
-	//3534. ORIGINAL [#FFE10071]: I found fresh batteries for this thing a while ago, but the group°Øs always had more important uses for em.
+	//3534. ORIGINAL [#FFE10071]: I found fresh batteries for this thing a while ago, but the groupÔºäs always had more important uses for em.
 	e3452437-565e-4ac9-a8e1-493675173ae2 = 
 
 	//3535. ORIGINAL [#FFE10071]: Batteries were some of the first things to be looted from shelves when the panic started.
@@ -10620,10 +10620,10 @@
 	//3536. ORIGINAL [#FFE10071]: So, you can understand my extended absence.
 	16b47e54-0cca-4b1d-9f79-a53839624095 = 
 
-	//3537. ORIGINAL [#FFE10071]: Now that we°Øre well stocked though, I°Øve got lots of downtime.
+	//3537. ORIGINAL [#FFE10071]: Now that weÔºäre well stocked though, IÔºäve got lots of downtime.
 	167d81c7-1f40-4bed-bf58-30da40fd46cc = 
 
-	//3538. ORIGINAL [#FFE10071]: Just recently I°Øve read through the Lord of the Ring series for the second time.
+	//3538. ORIGINAL [#FFE10071]: Just recently IÔºäve read through the Lord of the Ring series for the second time.
 	f8a67160-919b-4771-8513-aa95a00359a1 = 
 
 	//3539. ORIGINAL [#FFE10071]: My daughter Alice obsessed over those books when she was in high school.
@@ -10635,40 +10635,40 @@
 	//3541. ORIGINAL [#FFE10071]: No clue if she made it....
 	fdb717ea-2dfc-4631-a0dd-d641796dc3a5 = 
 
-	//3542. ORIGINAL [#FFE10071]: God, she doesn°Øt know about her dad°≠ about Paul.
+	//3542. ORIGINAL [#FFE10071]: God, she doesnÔºät know about her dadÔºÉ about Paul.
 	eba092c3-1d65-4ef6-8774-9efc202f4548 = 
 
-	//3543. ORIGINAL [#FFE10071]: I°Øm worried about her, but obsessing over it°Øs gonna mess with my head too much.
+	//3543. ORIGINAL [#FFE10071]: IÔºäm worried about her, but obsessing over itÔºäs gonna mess with my head too much.
 	a6172b4b-6f84-4b2d-bfb3-482f0a2ab568 = 
 
 	//3544. ORIGINAL [#FFE10071]: Looking back, I think what Paul did was a shitty thing.
 	cd76ab5c-bdac-4582-a2b6-bc585035ed13 = 
 
-	//3545. ORIGINAL [#FFE10071]: Hiding that bite could°Øve gotten the whole group killed.
+	//3545. ORIGINAL [#FFE10071]: Hiding that bite couldÔºäve gotten the whole group killed.
 	14892e45-9f64-419e-ae1b-c4387af3532f = 
 
-	//3546. ORIGINAL [#FFE10071]: But I°Øm not going to hold it against him.
+	//3546. ORIGINAL [#FFE10071]: But IÔºäm not going to hold it against him.
 	3a892fd1-8c16-4ce7-9865-755546f6aae6 = 
 
 	//3547. ORIGINAL [#FFE10071]: The rest of us are still breathing.
 	83b7370b-aaa5-4abe-8c02-b8646090f8a7 = 
 
-	//3548. ORIGINAL [#FFE10071]: It worked out°≠ for the most part.
+	//3548. ORIGINAL [#FFE10071]: It worked outÔºÉ for the most part.
 	90ec1f2a-3566-409a-848a-b06b9599e193 = 
 
-	//3549. ORIGINAL [#FFE10071]: This camp I°Øm in now? It ain°Øt exactly Fort Knox, but it°Øs about as close as you°Øre gonna get given the circumstances.
+	//3549. ORIGINAL [#FFE10071]: This camp IÔºäm in now? It ainÔºät exactly Fort Knox, but itÔºäs about as close as youÔºäre gonna get given the circumstances.
 	3f1407b3-a5bb-471b-a3fc-91a1bdb5c89c = 
 
 	//3550. ORIGINAL [#FFE10071]: I know I said before that they were building a survivalist compound that could self-sustain, but what we have here puts that statement to shame.
 	cebc5127-4be3-44f5-891e-95721eda3a8b = 
 
-	//3551. ORIGINAL [#FFE10071]: We°Øve got gardens, water purifiers, and a mountain of canned food. If we ration it properly, it°Øll last us for three winters, at most.
+	//3551. ORIGINAL [#FFE10071]: WeÔºäve got gardens, water purifiers, and a mountain of canned food. If we ration it properly, itÔºäll last us for three winters, at most.
 	5aaa99dc-3a12-4ea7-a576-4e5bff8bf413 = 
 
 	//3552. ORIGINAL [#FFE10071]: You could say people here were prepping like crazy before the deadheads came about.
 	4d492c27-d0e3-4763-993e-abe8f8008284 = 
 
-	//3553. ORIGINAL [#FFE10071]: We°Øve even got electricity. Our gas generator powers the whole compound.
+	//3553. ORIGINAL [#FFE10071]: WeÔºäve even got electricity. Our gas generator powers the whole compound.
 	b53e672a-74b2-48a0-b31f-d1ee0c47cb31 = 
 
 	//3554. ORIGINAL [#FFE10071]: We plan on using that very sparingly though, most likely only after a harvest when we need the crops to keep a while.
@@ -10677,43 +10677,43 @@
 	//3555. ORIGINAL [#FFE10071]: For those of you who might have similar living standards at the moment, you know how much gas these generators gobble up.
 	e51e3767-6049-401d-ad9d-f85f8b879b20 = 
 
-	//3556. ORIGINAL [#FFE10071]: It°Øs a complete blackout nationwide I hear, so electricity°Øs a luxury at this point. I won°Øt complain too much.
+	//3556. ORIGINAL [#FFE10071]: ItÔºäs a complete blackout nationwide I hear, so electricityÔºäs a luxury at this point. I wonÔºät complain too much.
 	adc7e518-cbd2-4917-a884-dc252329a57e = 
 
-	//3557. ORIGINAL [#FFE10071]: Now, if you°Øre wondering why I°Øm so willingly talking about my camp in such detail,
+	//3557. ORIGINAL [#FFE10071]: Now, if youÔºäre wondering why IÔºäm so willingly talking about my camp in such detail,
 	bf953b89-aa2a-4ef5-bbd6-7f2b945ecc82 = 
 
-	//3558. ORIGINAL [#FFE10071]: I°Øm not concerned about raiders. Not for now at least.
+	//3558. ORIGINAL [#FFE10071]: IÔºäm not concerned about raiders. Not for now at least.
 	e415ea7d-98b4-4689-a5a7-f45890b83850 = 
 
-	//3559. ORIGINAL [#FFE10071]: Security°Øs top-notch here. We°Øve got a fella here named Matt who°Øs a savant when it comes to carpentry.
+	//3559. ORIGINAL [#FFE10071]: SecurityÔºäs top-notch here. WeÔºäve got a fella here named Matt whoÔºäs a savant when it comes to carpentry.
 	d1abd71e-3641-461d-97d2-7a9bdd7a25d7 = 
 
 	//3560. ORIGINAL [#FFE10071]: He built walkways around our wall system so we can shoot down at any deadheads that approach the walls. Raiders, too.
 	2bb53130-8bd4-4fbf-89d5-81f39b986232 = 
 
-	//3561. ORIGINAL [#FFE10071]: Just about everyone still alive°Øs had to deal with a bandit at least once by now. If you haven°Øt, you°Øre lucky.
+	//3561. ORIGINAL [#FFE10071]: Just about everyone still aliveÔºäs had to deal with a bandit at least once by now. If you havenÔºät, youÔºäre lucky.
 	5a83aa48-2158-467b-88b7-83e138032f1a = 
 
-	//3562. ORIGINAL [#FFE10071]: I°≠ well, let°Øs just say I°Øve got quite the story to tell about those scumbags.
+	//3562. ORIGINAL [#FFE10071]: IÔºÉ well, letÔºäs just say IÔºäve got quite the story to tell about those scumbags.
 	002dc863-9551-4d57-94d4-74b57ddfa11c = 
 
-	//3563. ORIGINAL [#FFE10071]: Probably a story best told when I°Øm not feeling so tired.
+	//3563. ORIGINAL [#FFE10071]: Probably a story best told when IÔºäm not feeling so tired.
 	97d276ce-6c31-4e83-9f20-5403465b2163 = 
 
 	//3564. ORIGINAL [#FFE10071]: Just got back from scavenging houses in Rosewood today.
 	77591d0b-9e01-4157-94ef-919d24837c7c = 
 
-	//3565. ORIGINAL [#FFE10071]: Slim pickings, but there°Øs still scraps that people have missed here and there.
+	//3565. ORIGINAL [#FFE10071]: Slim pickings, but thereÔºäs still scraps that people have missed here and there.
 	af1c6676-c51d-4184-b412-ae91dee29d37 = 
 
-	//3566. ORIGINAL [#FFE10071]: I°Øll broadcast the same time two days from now. Gonna kick my feet up and start reading this book I swiped off a shelf today.
+	//3566. ORIGINAL [#FFE10071]: IÔºäll broadcast the same time two days from now. Gonna kick my feet up and start reading this book I swiped off a shelf today.
 	210b1990-a391-45f2-8389-6a03d1ad31f9 = 
 
-	//3567. ORIGINAL [#FFE10071]: The Stand by Stephen King. Book°Øs about a disease that wipes out the majority of humanity in a matter of weeks.
+	//3567. ORIGINAL [#FFE10071]: The Stand by Stephen King. BookÔºäs about a disease that wipes out the majority of humanity in a matter of weeks.
 	04b7c6b0-7d72-48d2-b271-84c5faf7d9cd = 
 
-	//3568. ORIGINAL [#FFE10071]: Sounds a bit familiar, doesn°Øt it?
+	//3568. ORIGINAL [#FFE10071]: Sounds a bit familiar, doesnÔºät it?
 	0cb5612b-1363-4efe-b110-ae56e44864af = 
 
 	//3569. ORIGINAL [#FFE10071]: Talk to you soon folks. Dianne out.
@@ -10725,13 +10725,13 @@
 	//3571. ORIGINAL [#FFE10071]: For those of you that tuned in yesterday, I promised to tell you a story about a bandit group I encountered.
 	98da5a58-32c6-4594-a4d9-47ade628f573 = 
 
-	//3572. ORIGINAL [#FFE10071]: Well, get comfy. You°Øre about to hear all about it.
+	//3572. ORIGINAL [#FFE10071]: Well, get comfy. YouÔºäre about to hear all about it.
 	3e7b4801-2ab9-4629-8902-4c61f2faef7e = 
 
 	//3573. ORIGINAL [#FFE10071]: Now, for those of you listeners that have encountered a hostile survivor, what did you have to do to get out of the situation?
 	68c7e871-2733-4d99-a841-375669d5cd27 = 
 
-	//3574. ORIGINAL [#FFE10071]: Run, perhaps? Scare them off with a gun, provided they didn°Øt have one?
+	//3574. ORIGINAL [#FFE10071]: Run, perhaps? Scare them off with a gun, provided they didnÔºät have one?
 	ccbafd92-33d3-4937-a222-bcef9f532926 = 
 
 	//3575. ORIGINAL [#FFE10071]: Kill them?
@@ -10749,25 +10749,25 @@
 	//3579. ORIGINAL [#FFE10071]: Had an axe in her hands.
 	b2e81b2c-e6a9-4989-8219-2b06af1e450a = 
 
-	//3580. ORIGINAL [#FFE10071]: Something in her voice told me I couldn°Øt reason with her.
+	//3580. ORIGINAL [#FFE10071]: Something in her voice told me I couldnÔºät reason with her.
 	39bd7e85-f42a-4c0b-82f2-5ba65fcd0eac = 
 
-	//3581. ORIGINAL [#FFE10071]: Couldn°Øt negotiate with her to just take half and let me walk. Just had a bad feeling, you know?
+	//3581. ORIGINAL [#FFE10071]: CouldnÔºät negotiate with her to just take half and let me walk. Just had a bad feeling, you know?
 	3981d389-d3c2-4059-8df2-692d71cefc52 = 
 
-	//3582. ORIGINAL [#FFE10071]: Now, I°Ød long since parted ways with that shotgun I mentioned previously. I keep a 9mm automatic strapped to my hip.
+	//3582. ORIGINAL [#FFE10071]: Now, IÔºäd long since parted ways with that shotgun I mentioned previously. I keep a 9mm automatic strapped to my hip.
 	4064b9f3-cdd8-4340-a7cd-b8908d95d6f0 = 
 
-	//3583. ORIGINAL [#FFE10071]: Alan had the group go through shooting lessons, once we found a stockpile of ammo. I°Øm quite a good shot now.
+	//3583. ORIGINAL [#FFE10071]: Alan had the group go through shooting lessons, once we found a stockpile of ammo. IÔºäm quite a good shot now.
 	70f4923e-7c47-46c3-af32-6dd2dbe3285e = 
 
-	//3584. ORIGINAL [#FFE10071]: A pistol°Øs less difficult to lug around, makes hauling large amounts of loot easier.
+	//3584. ORIGINAL [#FFE10071]: A pistolÔºäs less difficult to lug around, makes hauling large amounts of loot easier.
 	9542b93a-04ad-4027-acb8-b978db51f1d8 = 
 
-	//3585. ORIGINAL [#FFE10071]: I°≠ I pulled the gun and just shot her. In the head. She was dead before she hit the ground.
+	//3585. ORIGINAL [#FFE10071]: IÔºÉ I pulled the gun and just shot her. In the head. She was dead before she hit the ground.
 	d1e78288-4858-41a7-908a-667f0d1269c3 = 
 
-	//3586. ORIGINAL [#FFE10071]: It was like I°Ød flipped her switch, and I watched her lights go out.
+	//3586. ORIGINAL [#FFE10071]: It was like IÔºäd flipped her switch, and I watched her lights go out.
 	ac1955b2-323b-4dd8-8351-507c99057312 = 
 
 	//3587. ORIGINAL [#FFE10071]: I saw it happen in slow motion, yet at the same time it felt like it happened instantly.
@@ -10776,46 +10776,46 @@
 	//3588. ORIGINAL [#FFE10071]: It was stupid of me to think she was by herself.
 	165325b3-40d1-43ce-89db-b5fc8437bed3 = 
 
-	//3589. ORIGINAL [#FFE10071]: She had three others covering the exits in case I got away from her. They°Ød been watching me for a while, clearly.
+	//3589. ORIGINAL [#FFE10071]: She had three others covering the exits in case I got away from her. TheyÔºäd been watching me for a while, clearly.
 	d36fd613-d686-49a5-92c6-208d9ddcab0a = 
 
-	//3590. ORIGINAL [#FFE10071]: Guess they didn°Øt think I°Ød have the guts to fight back, or something.
+	//3590. ORIGINAL [#FFE10071]: Guess they didnÔºät think IÔºäd have the guts to fight back, or something.
 	f9fa4b2a-57d5-4721-b4b3-2b3cbbad2897 = 
 
-	//3591. ORIGINAL [#FFE10071]: I°≠ killed all of them.
+	//3591. ORIGINAL [#FFE10071]: IÔºÉ killed all of them.
 	fe5a5e1f-b9c4-4cb1-8b9a-1161516b6f0a = 
 
-	//3592. ORIGINAL [#FFE10071]: Didn°Øt hesitate or anything. Just one after the other, two to three shots per person.
+	//3592. ORIGINAL [#FFE10071]: DidnÔºät hesitate or anything. Just one after the other, two to three shots per person.
 	2048bd33-ce3f-4dea-886a-cbf47d619f19 = 
 
 	//3593. ORIGINAL [#FFE10071]: Sure, it was self defense. But killing living people? It feels worlds different from killing the dead.
 	65862b9b-9d5e-4052-87b7-ec20e1101d8c = 
 
-	//3594. ORIGINAL [#FFE10071]: For a while I was thinking about what I could°Øve done differently, and to be honest, not much came to mind.
+	//3594. ORIGINAL [#FFE10071]: For a while I was thinking about what I couldÔºäve done differently, and to be honest, not much came to mind.
 	49a67735-dfec-45f4-88b3-3b8c8ff3f305 = 
 
 	//3595. ORIGINAL [#FFE10071]: I made the right call
 	68e1ed0a-0b53-459c-9e79-6b59d991e554 = 
 
-	//3596. ORIGINAL [#FFE10071]: Giving them my supplies wasn°Øt an option. My backpack has a map that has the location of my camp on it.
+	//3596. ORIGINAL [#FFE10071]: Giving them my supplies wasnÔºät an option. My backpack has a map that has the location of my camp on it.
 	c2480f59-d339-404d-a585-23b8a2713506 = 
 
-	//3597. ORIGINAL [#FFE10071]: Not chance I°Øm leading crazies back home, that°Øs for sure.
+	//3597. ORIGINAL [#FFE10071]: Not chance IÔºäm leading crazies back home, thatÔºäs for sure.
 	cef9cc6a-43ba-4f14-a31d-0e23bebd8b97 = 
 
-	//3598. ORIGINAL [#FFE10071]: This is the world we now live in, folks. Sure is a dream, ain°Øt it?
+	//3598. ORIGINAL [#FFE10071]: This is the world we now live in, folks. Sure is a dream, ainÔºät it?
 	c82e1f1a-bd24-4abf-a7ad-4d306a9cd564 = 
 
 	//3599. ORIGINAL [#FFE10071]: Talk to you in a couple days. Dianne out.
 	12e7a059-a709-4b14-beeb-1f73cf5e6f37 = 
 
-	//3600. ORIGINAL [#FFE10071]: Hey it°Øs Dianne. Been quiet here the last couple of days.
+	//3600. ORIGINAL [#FFE10071]: Hey itÔºäs Dianne. Been quiet here the last couple of days.
 	2d86b139-6651-4015-8b55-a8128016e942 = 
 
-	//3601. ORIGINAL [#FFE10071]: Alan had quite the odd story to tell about his last scavenging trip, though. Thought you°Ød wanna hear about it.
+	//3601. ORIGINAL [#FFE10071]: Alan had quite the odd story to tell about his last scavenging trip, though. Thought youÔºäd wanna hear about it.
 	fab20b74-027a-4280-bde4-288b5745e0e0 = 
 
-	//3602. ORIGINAL [#FFE10071]: He went into Rosewood with Mary. They were hitting up a neighborhood we hadn°Øt poked through yet.
+	//3602. ORIGINAL [#FFE10071]: He went into Rosewood with Mary. They were hitting up a neighborhood we hadnÔºät poked through yet.
 	56dca0a8-8a14-4154-be59-fcc3d595d001 = 
 
 	//3603. ORIGINAL [#FFE10071]: Said he spotted a scene of serious roadkill.
@@ -10824,37 +10824,37 @@
 	//3604. ORIGINAL [#FFE10071]: Deadheads splattered across the pavement for a good hundred meters or so.
 	6801b056-924c-4b87-887e-06044c2604c9 = 
 
-	//3605. ORIGINAL [#FFE10071]: Whoever did it must°Øve been in a real hurry.
+	//3605. ORIGINAL [#FFE10071]: Whoever did it mustÔºäve been in a real hurry.
 	cd220c18-7de2-4fd3-a5d4-27b105ca1be2 = 
 
-	//3606. ORIGINAL [#FFE10071]: They walked over one of them and it reached out and grabbed Mary°Øs ankle.
+	//3606. ORIGINAL [#FFE10071]: They walked over one of them and it reached out and grabbed MaryÔºäs ankle.
 	4c363655-459c-46e7-a0e3-bfae89bd5f57 = 
 
 	//3607. ORIGINAL [#FFE10071]: It was completely still until she stepped over it.
 	19772a32-5768-4d3c-a655-c9cdcbbafb98 = 
 
-	//3608. ORIGINAL [#FFE10071]: Alan was able to split its skull with his axe before it got her, but he°Ød never seen anything like that before.
+	//3608. ORIGINAL [#FFE10071]: Alan was able to split its skull with his axe before it got her, but heÔºäd never seen anything like that before.
 	bbfd9957-a41a-4203-98a7-090131952832 = 
 
-	//3609. ORIGINAL [#FFE10071]: If the deadheads lose function of their legs, they°Øll play statue until someone living comes along and try to grab hold.
+	//3609. ORIGINAL [#FFE10071]: If the deadheads lose function of their legs, theyÔºäll play statue until someone living comes along and try to grab hold.
 	84b9b5b8-5284-4219-905b-1362f58f0376 = 
 
-	//3610. ORIGINAL [#FFE10071]: I don°Øt think you could say that they°Øre learning to do things, not by a long shot.
+	//3610. ORIGINAL [#FFE10071]: I donÔºät think you could say that theyÔºäre learning to do things, not by a long shot.
 	814a4e02-916f-4a0f-9ff8-2ce243364ff5 = 
 
 	//3611. ORIGINAL [#FFE10071]: But the dead have some odd behaviors. Some that we should take note of.
 	e5796370-4ba1-4d62-9733-097e867f2c08 = 
 
-	//3612. ORIGINAL [#FFE10071]: If you°Øre unsure if something°Øs really dead, don°Øt get too close. Or, if you have to, keep your weapon at the ready.
+	//3612. ORIGINAL [#FFE10071]: If youÔºäre unsure if somethingÔºäs really dead, donÔºät get too close. Or, if you have to, keep your weapon at the ready.
 	3bc14e1c-c08e-4483-b513-ffced2fe0e32 = 
 
-	//3613. ORIGINAL [#FFE10071]: Taking stupid risks is a solid way to get yourself killed. After you°Øve made it this far, why take the chance, right?
+	//3613. ORIGINAL [#FFE10071]: Taking stupid risks is a solid way to get yourself killed. After youÔºäve made it this far, why take the chance, right?
 	23a404ca-de65-4465-8d45-78331febc2e3 = 
 
-	//3614. ORIGINAL [Silver]: Shit, that°Øs our alarm. Only plays when a horde°Øs coming in.
+	//3614. ORIGINAL [Silver]: Shit, thatÔºäs our alarm. Only plays when a hordeÔºäs coming in.
 	7d1979b7-58da-4301-be9a-4012f5570096 = 
 
-	//3615. ORIGINAL [Silver]: Be talking to you soon, folks. Might be a while till we take care of the corpses we°Øre sure as shit about to create.
+	//3615. ORIGINAL [Silver]: Be talking to you soon, folks. Might be a while till we take care of the corpses weÔºäre sure as shit about to create.
 	40b6c87b-5ce3-4faa-b278-c4e06e0b54ec = 
 
 	//3616. ORIGINAL [Silver]: Dianne, signing off for now. Take care.
@@ -10881,49 +10881,49 @@
 	//3623. ORIGINAL [Blue]: Hey there, everyone.
 	42802ebe-f311-46c7-a0b4-53a82cd30570 = 
 
-	//3624. ORIGINAL [Blue]: If you°Øre hearing my voice, then congratulations.
+	//3624. ORIGINAL [Blue]: If youÔºäre hearing my voice, then congratulations.
 	ecb1e0f6-90ad-4664-b9a2-c9a1c10e4112 = 
 
-	//3625. ORIGINAL [Blue]: You°Øve made it through your first week in Hell.
+	//3625. ORIGINAL [Blue]: YouÔºäve made it through your first week in Hell.
 	1989a000-53e3-479b-8cdd-111174f99dde = 
 
-	//3626. ORIGINAL [Blue]: Odds are you°Øre barricaded in some house outside your hometown surrounded by a buncha strangers.
+	//3626. ORIGINAL [Blue]: Odds are youÔºäre barricaded in some house outside your hometown surrounded by a buncha strangers.
 	52b8d354-8261-4c5f-9bdb-d1dda007e28d = 
 
 	//3627. ORIGINAL [Blue]: Safety in numbers and all that shit.
 	960a5911-b50d-43b7-9bdd-1dc9eb17b7e9 = 
 
-	//3628. ORIGINAL [Blue]: Or, if you got lucky, the fever missed some of your loved ones and you°Øre all huddled round the radio, looking for signs of life out there.
+	//3628. ORIGINAL [Blue]: Or, if you got lucky, the fever missed some of your loved ones and youÔºäre all huddled round the radio, looking for signs of life out there.
 	b2204205-d403-4469-a2c9-ccbbdaf79647 = 
 
-	//3629. ORIGINAL [Blue]: Well, you°Øve turned to the right station. I°Øll tell you a bit about myself first.
+	//3629. ORIGINAL [Blue]: Well, youÔºäve turned to the right station. IÔºäll tell you a bit about myself first.
 	5a3fdc9a-05d1-4904-8c64-2bc486a24c1d = 
 
-	//3630. ORIGINAL [Blue]: Personally? I don°Øt need a group. Been flying solo ever since those dead fuckers took over.
+	//3630. ORIGINAL [Blue]: Personally? I donÔºät need a group. Been flying solo ever since those dead fuckers took over.
 	58fd6d2b-5f23-406b-abfc-92e2e847296c = 
 
-	//3631. ORIGINAL [Blue]: To most people round here, I°Øm invisible.
+	//3631. ORIGINAL [Blue]: To most people round here, IÔºäm invisible.
 	ba81ca27-c2f3-4260-9242-9e72b8a1a673 = 
 
 	//3632. ORIGINAL [Blue]: Nobody took notice of me, so hardly anybody knows my name.
 	2e961131-70e9-43e9-ba9c-d7f3a3629d80 = 
 
-	//3633. ORIGINAL [Blue]: Which is exactly why I°Øm doing this broadcasting shit.
+	//3633. ORIGINAL [Blue]: Which is exactly why IÔºäm doing this broadcasting shit.
 	11cd0eea-0054-4d06-970a-90508f5b0838 = 
 
-	//3634. ORIGINAL [Blue]: I°Øm not gonna go crazy having nobody to talk to. I°Øm gonna talk about all the shit I°Øve seen, even if it°Øs just me talking into this hunk of plastic.
+	//3634. ORIGINAL [Blue]: IÔºäm not gonna go crazy having nobody to talk to. IÔºäm gonna talk about all the shit IÔºäve seen, even if itÔºäs just me talking into this hunk of plastic.
 	6fc5f2ac-60e7-4fc0-918b-fa5dc4f8da8b = 
 
-	//3635. ORIGINAL [Blue]: Hell, what I°Øve got to say might help some of you last just a little bit longer out there.
+	//3635. ORIGINAL [Blue]: Hell, what IÔºäve got to say might help some of you last just a little bit longer out there.
 	c4af6341-93fc-422b-acb5-15fa7b7b6054 = 
 
-	//3636. ORIGINAL [Blue]: We survivors gotta stick together, wouldn°Øt you say?
+	//3636. ORIGINAL [Blue]: We survivors gotta stick together, wouldnÔºät you say?
 	6209c7cc-bc82-482d-9ddf-ef59f212779a = 
 
-	//3637. ORIGINAL [Blue]: Yet, if I°Øm gonna be talking to you every week like this, I feel introductions are in order, regardless.
+	//3637. ORIGINAL [Blue]: Yet, if IÔºäm gonna be talking to you every week like this, I feel introductions are in order, regardless.
 	36bf9334-93ec-4f55-9f4a-9db80da710f7 = 
 
-	//3638. ORIGINAL [Blue]: My name°Øs Mike.
+	//3638. ORIGINAL [Blue]: My nameÔºäs Mike.
 	e21ff603-9196-47d7-8820-1c5649855ecd = 
 
 	//3639. ORIGINAL [Blue]: Mike Lopken.
@@ -10935,7 +10935,7 @@
 	//3641. ORIGINAL [Blue]: Was studying journalism and writing when this shit started.
 	2cb24713-8169-4df8-8816-35eb944270c9 = 
 
-	//3642. ORIGINAL [Blue]: °∞Coffee shop degree°±, they told me. °∞Experience beats all°±, they said.
+	//3642. ORIGINAL [Blue]: ‚ÄªCoffee shop degree¬ß, they told me. ‚ÄªExperience beats all¬ß, they said.
 	7105b0c2-4ce4-4ea7-9fa6-4d633ac3d16d = 
 
 	//3643. ORIGINAL [Blue]: No point in worrying about that shit now, is there?
@@ -10944,34 +10944,34 @@
 	//3644. ORIGINAL [Blue]: Hell, the journalists that were covering this virus kept the truth from you for days.
 	fa5fe097-76b3-4973-9972-8ff6450188b0 = 
 
-	//3645. ORIGINAL [Blue]: Left you unprepared for the deadhead°Øs aggressive takeover.
+	//3645. ORIGINAL [Blue]: Left you unprepared for the deadheadÔºäs aggressive takeover.
 	d650eb3c-0d82-491a-9ede-a0d415caacde = 
 
-	//3646. ORIGINAL [Blue]: Speaking of which, if you haven°Øt killed one of them yet, you should prepare yourselves to do so.
+	//3646. ORIGINAL [Blue]: Speaking of which, if you havenÔºät killed one of them yet, you should prepare yourselves to do so.
 	22ee158f-c412-4fd2-8c0e-ce86ea5bd5cb = 
 
 	//3647. ORIGINAL [Blue]: People like us? The living, breathing type?
 	371941bd-036a-4b11-b503-456672a573f9 = 
 
-	//3648. ORIGINAL [Blue]: We°Øre a minority now. Outnumbered 200 to 1, I°Ød wager
+	//3648. ORIGINAL [Blue]: WeÔºäre a minority now. Outnumbered 200 to 1, IÔºäd wager
 	50d1ae06-1e0c-410b-be17-f99f244ca8c9 = 
 
-	//3649. ORIGINAL [Blue]: You won°Øt be left with any choice sooner or later. Get yourself a bat, hammer, or hell, even a fucking golf club if your options are limited.
+	//3649. ORIGINAL [Blue]: You wonÔºät be left with any choice sooner or later. Get yourself a bat, hammer, or hell, even a fucking golf club if your options are limited.
 	127887bd-1442-4243-a715-5ede4b5b1857 = 
 
-	//3650. ORIGINAL [Blue]: These things want to kill you. They°Øre not alive anymore.
+	//3650. ORIGINAL [Blue]: These things want to kill you. TheyÔºäre not alive anymore.
 	fbff1534-ce2d-432b-8944-b6830635d600 = 
 
-	//3651. ORIGINAL [Blue]: Don°Øt show them any sympathy, no matter who they were before
+	//3651. ORIGINAL [Blue]: DonÔºät show them any sympathy, no matter who they were before
 	8e5b6a88-1be0-487d-80b4-11b88a617b3e = 
 
 	//3652. ORIGINAL [Blue]: Just smash their heads over and over till their skull caves in. Only way to do it.
 	72d8eb4b-6d6d-4cfb-bde3-e1c0678580db = 
 
-	//3653. ORIGINAL [Blue]: You hesitate, you°Øll die.
+	//3653. ORIGINAL [Blue]: You hesitate, youÔºäll die.
 	54165a7f-98e6-4442-9041-66dc57b6a798 = 
 
-	//3654. ORIGINAL [Blue]: I°Øm hiding out in the back of a semi truck. Not planning on staying in one place for very long.
+	//3654. ORIGINAL [Blue]: IÔºäm hiding out in the back of a semi truck. Not planning on staying in one place for very long.
 	d37ed7fd-476a-4963-9116-946f5e8eb2dd = 
 
 	//3655. ORIGINAL [Blue]: Planning on heading south till the landscape gets a hell of a lot more flat.
@@ -10983,7 +10983,7 @@
 	//3657. ORIGINAL [Blue]: Also, I fucking hate the cold. Winters up here get really bad.
 	d2eede00-e0aa-47d0-b03b-64ff82013f58 = 
 
-	//3658. ORIGINAL [Blue]: Yep, I°Øm from up North. New York. Not the city, mind you.
+	//3658. ORIGINAL [Blue]: Yep, IÔºäm from up North. New York. Not the city, mind you.
 	a72ea382-8bdb-4627-bccd-1ee65bc1d3a9 = 
 
 	//3659. ORIGINAL [Blue]: Smaller town called Binghamton. Lived here since elementary school.
@@ -10992,10 +10992,10 @@
 	//3660. ORIGINAL [Blue]: Lotta memories here, both good and bad.
 	7ded90a3-2179-4856-b329-13f985251e78 = 
 
-	//3661. ORIGINAL [Blue]: For those of you out of staters, one thing you should know about New York is that it°Øs nothing but mountains and hills in every direction.
+	//3661. ORIGINAL [Blue]: For those of you out of staters, one thing you should know about New York is that itÔºäs nothing but mountains and hills in every direction.
 	077f9a5e-e094-49fc-aa9f-34ff8062069c = 
 
-	//3662. ORIGINAL [Blue]: That means that it°Øs gonna take just one crazy prick with a hunting rifle to cut me down.
+	//3662. ORIGINAL [Blue]: That means that itÔºäs gonna take just one crazy prick with a hunting rifle to cut me down.
 	056fe670-85e5-4c38-bf4d-9b559f8fd89b = 
 
 	//3663. ORIGINAL [Blue]: Too many places to hide in the trees out here.
@@ -11004,16 +11004,16 @@
 	//3664. ORIGINAL [Blue]: Speaking of guns, got my hands on nice piece here. Service automatic off a cop. Four spare magazines.
 	1072e27f-8290-4112-977a-6d4b155a3650 = 
 
-	//3665. ORIGINAL [Blue]: Yes, I know what you°Øre thinking.
+	//3665. ORIGINAL [Blue]: Yes, I know what youÔºäre thinking.
 	b19c3c55-06f1-4655-b868-edb55fec4f8c = 
 
-	//3666. ORIGINAL [Blue]: He was already dead. In no state to use it. If I hadn°Øt taken it, someone else would°Øve. Maybe someone with a few screws loose, perhaps.
+	//3666. ORIGINAL [Blue]: He was already dead. In no state to use it. If I hadnÔºät taken it, someone else wouldÔºäve. Maybe someone with a few screws loose, perhaps.
 	0d9dec96-bd65-47c8-8ba5-4092c4d79ce6 = 
 
 	//3667. ORIGINAL [Blue]: *Yawn*
 	209f8a01-2bc1-4243-96da-f3617d999b09 = 
 
-	//3668. ORIGINAL [Blue]: Anyway, think I°Øm gonna turn in for now.
+	//3668. ORIGINAL [Blue]: Anyway, think IÔºäm gonna turn in for now.
 	a3c2538b-fdcf-49db-b936-f093ae28d66e = 
 
 	//3669. ORIGINAL [Blue]: Sleep deprivation does you no good in the apocalypse.
@@ -11025,7 +11025,7 @@
 	//3671. ORIGINAL [Blue]: Hey there, folks. Another week come and gone just like that.
 	f1a0fb89-4d54-40f7-be4c-97dc85d1d3d8 = 
 
-	//3672. ORIGINAL [Blue]: How°Øs your life been in this rotting, undead hellscape?
+	//3672. ORIGINAL [Blue]: HowÔºäs your life been in this rotting, undead hellscape?
 	e7e3d378-4bf4-4494-a358-47e0bc4b9d85 = 
 
 	//3673. ORIGINAL [Blue]: Finally made it to Pennsylvania. Terrain should start flattening out in the coming days.
@@ -11034,10 +11034,10 @@
 	//3674. ORIGINAL [Blue]: Getting here sure as shit was an adventure, lemme tell ya.
 	538c4923-3aff-40c9-916d-699e162ed851 = 
 
-	//3675. ORIGINAL [Blue]: Spotted the occasional survivor here and there. Didn°Øt approach em, let alone allow them to see me, though.
+	//3675. ORIGINAL [Blue]: Spotted the occasional survivor here and there. DidnÔºät approach em, let alone allow them to see me, though.
 	19b13e54-fb83-48e8-9a5f-8c3c7269c247 = 
 
-	//3676. ORIGINAL [Blue]: I need to get a read on people before I decide they°Øre trustworthy, you know?
+	//3676. ORIGINAL [Blue]: I need to get a read on people before I decide theyÔºäre trustworthy, you know?
 	fc5fe4c8-3425-4dfc-86b7-46b4c0f29f01 = 
 
 	//3677. ORIGINAL [Blue]: As helpful as it would be to trade supplies with others, trusting people too quickly can get you killed out here in a hurry.
@@ -11046,13 +11046,13 @@
 	//3678. ORIGINAL [Blue]: People who were normal, law-abiding citizens flipped their lids in an instant when the corpses started biting.
 	d6c642cb-f8c6-4e2d-bde2-e0600fcdb9d2 = 
 
-	//3679. ORIGINAL [Blue]: It°Øs a tough world we now live in.
+	//3679. ORIGINAL [Blue]: ItÔºäs a tough world we now live in.
 	89dd9142-dec5-48a0-a189-09b8c8e92fd6 = 
 
 	//3680. ORIGINAL [Blue]: Killed dozen deadheads this week with this sweet hammer.
 	55c41eb5-5569-4ffd-aae0-f2b954e5d4f6 = 
 
-	//3681. ORIGINAL [Blue]: Found it poking outta some dead carpenter°Øs toolbox.
+	//3681. ORIGINAL [Blue]: Found it poking outta some dead carpenterÔºäs toolbox.
 	5dea7cb6-02f7-4292-a80b-c2201a9b7b4b = 
 
 	//3682. ORIGINAL [Blue]: Walked for a good six days until I got to the very thing I was dreading to reach: the Lehigh tunnel.
@@ -11076,7 +11076,7 @@
 	//3688. ORIGINAL [Blue]: Kid stuff.
 	ff26bea9-8cfb-4477-b2ca-24ec2c3fe5e3 = 
 
-	//3689. ORIGINAL [Blue]: He used to breathe through his nose and act like he°Ød been holding his breath the whole time.
+	//3689. ORIGINAL [Blue]: He used to breathe through his nose and act like heÔºäd been holding his breath the whole time.
 	eecdf730-4a6f-4ed6-8e5c-2d8cf8f6594c = 
 
 	//3690. ORIGINAL [Blue]: Well, so did I, actually. *laughs*
@@ -11085,10 +11085,10 @@
 	//3691. ORIGINAL [Blue]: Now, the only way to get past this mountain is to scale  the blue mountain trail, or to go straight through the tunnel itself.
 	bfabe2eb-74c0-4aa9-aee7-00b0b185cdc4 = 
 
-	//3692. ORIGINAL [Blue]: Now, by this point the power°Ød been out for days. Pitch black in there for a long-ass time.
+	//3692. ORIGINAL [Blue]: Now, by this point the powerÔºäd been out for days. Pitch black in there for a long-ass time.
 	7c6f975d-4817-49de-8429-60ac2d743c1c = 
 
-	//3693. ORIGINAL [Blue]: I had a flashlight. Enough batteries to get to the other side, but still, it°Øs total gridlock on the highways.
+	//3693. ORIGINAL [Blue]: I had a flashlight. Enough batteries to get to the other side, but still, itÔºäs total gridlock on the highways.
 	da518520-8a9b-4b4f-af2f-7c2e44b5940e = 
 
 	//3694. ORIGINAL [Blue]: Heard gunfire coming from the trail though, so it was either the tunnel or turn back.
@@ -11106,43 +11106,43 @@
 	//3698. ORIGINAL [Blue]: Could hear one of them coming towards me as I fumbled with the damn batteries.
 	08678c91-3be9-4a6a-97f0-a21beff94ed8 = 
 
-	//3699. ORIGINAL [Blue]: Heart°Øs never raced quicker than it did then, lemme tell you.
+	//3699. ORIGINAL [Blue]: HeartÔºäs never raced quicker than it did then, lemme tell you.
 	32774a72-2b86-40ac-9a44-950e52e3ba8a = 
 
-	//3700. ORIGINAL [Blue]: In the end, I didn°Øt stick around to fight it. Just ran and ran until I saw sunlight.
+	//3700. ORIGINAL [Blue]: In the end, I didnÔºät stick around to fight it. Just ran and ran until I saw sunlight.
 	8de1d2ba-e54d-4f55-b2d7-843de080c349 = 
 
 	//3701. ORIGINAL [Blue]: Keep a flashlight on you at all times, people.
 	577ad70d-d3a6-44cc-b522-c962e6af6632 = 
 
-	//3702. ORIGINAL [Blue]: The dead are dumb and slow, but they°Øll just as well get you if you can°Øt see them.
+	//3702. ORIGINAL [Blue]: The dead are dumb and slow, but theyÔºäll just as well get you if you canÔºät see them.
 	1d42e342-eb3b-4857-b38c-d54cef3e7246 = 
 
-	//3703. ORIGINAL [Blue]: Currently I°Øm holed up at an abandoned gas station.
+	//3703. ORIGINAL [Blue]: Currently IÔºäm holed up at an abandoned gas station.
 	b09736a8-a401-4c13-955e-01a094092dd6 = 
 
 	//3704. ORIGINAL [Blue]: This place was almost definitely defunct even before the apocalypse.
 	75c72380-1a1d-4301-865d-f603e72b7bc3 = 
 
-	//3705. ORIGINAL [Blue]: Guess that°Øs why it stayed relatively untouched.
+	//3705. ORIGINAL [Blue]: Guess thatÔºäs why it stayed relatively untouched.
 	52da8ddb-3758-4d27-bdb1-921f81fad636 = 
 
-	//3706. ORIGINAL [Blue]: Didn°Øt have to clear it out or anything.
+	//3706. ORIGINAL [Blue]: DidnÔºät have to clear it out or anything.
 	5b1d28f4-27e8-4956-bf39-2dc0ea5dd7eb = 
 
-	//3707. ORIGINAL [Blue]: Anyway, map°Øs reading that Philadelphia°Øs due south.
+	//3707. ORIGINAL [Blue]: Anyway, mapÔºäs reading that PhiladelphiaÔºäs due south.
 	39bb8154-7b7c-485c-b998-50919e08771a = 
 
-	//3708. ORIGINAL [Blue]: I love cheesesteaks as much as the next guy, but I°Øm not coming anywhere near that place.
+	//3708. ORIGINAL [Blue]: I love cheesesteaks as much as the next guy, but IÔºäm not coming anywhere near that place.
 	4b186c10-0fd9-4ea1-a922-e50889c39045 = 
 
-	//3709. ORIGINAL [Blue]: If you°Øre still in the cities at this point, you°Øre either incredibly stupid or incredibly good at sneaking around.
+	//3709. ORIGINAL [Blue]: If youÔºäre still in the cities at this point, youÔºäre either incredibly stupid or incredibly good at sneaking around.
 	9415cf48-a691-4f9f-b54a-ebb8caa9707e = 
 
-	//3710. ORIGINAL [Blue]: Thousands of people, all turning at once. Can°Øt imagine the state it°Øs in now.
+	//3710. ORIGINAL [Blue]: Thousands of people, all turning at once. CanÔºät imagine the state itÔºäs in now.
 	d4b35efb-5813-4bdb-a827-37e2af70578b = 
 
-	//3711. ORIGINAL [Blue]: Anyway, I°Øm gonna get some shut-eye.
+	//3711. ORIGINAL [Blue]: Anyway, IÔºäm gonna get some shut-eye.
 	953e18fc-0e94-4a82-9027-2797c5a747a1 = 
 
 	//3712. ORIGINAL [Blue]: Gonna need to scavenge food tomorrow, down to my last two cans of corn.
@@ -11151,31 +11151,31 @@
 	//3713. ORIGINAL [Blue]: Stay breathing, people. Mike out.
 	c3b30eaf-b6d5-42e7-aead-5b66e4481d75 = 
 
-	//3714. ORIGINAL [Blue]: How°Øs it going people? Mike here.
+	//3714. ORIGINAL [Blue]: HowÔºäs it going people? Mike here.
 	856b97b4-1057-48a8-8370-007524d9a859 = 
 
-	//3715. ORIGINAL [Blue]: You won°Øt believe what I picked up in my binocs a few minutes ago.
+	//3715. ORIGINAL [Blue]: You wonÔºät believe what I picked up in my binocs a few minutes ago.
 	ecb51b09-a9b3-4eef-84fc-e79ac49da002 = 
 
-	//3716. ORIGINAL [Blue]: Normally I start broadcasting when I°Øm in a safe spot but, I can°Øt afford to let this chance go.
+	//3716. ORIGINAL [Blue]: Normally I start broadcasting when IÔºäm in a safe spot but, I canÔºät afford to let this chance go.
 	e79fdb74-6325-4de3-854a-3ea81d4bfecd = 
 
-	//3717. ORIGINAL [Blue]: Scavvers might°Øve been on this if I didn°Øt move on it right away.
+	//3717. ORIGINAL [Blue]: Scavvers mightÔºäve been on this if I didnÔºät move on it right away.
 	3eb02da8-3117-4e65-af01-c4cde33b4ff8 = 
 
-	//3718. ORIGINAL [Blue]: I°Øm just outside this small town°≠ think I saw a sign for Bernville.
+	//3718. ORIGINAL [Blue]: IÔºäm just outside this small townÔºÉ think I saw a sign for Bernville.
 	a21212c0-0ebd-484f-9aae-2f70fac6c95d = 
 
-	//3719. ORIGINAL [Blue]: There°Øs an RV parked next to this farmhouse off the beaten path.
+	//3719. ORIGINAL [Blue]: ThereÔºäs an RV parked next to this farmhouse off the beaten path.
 	d6de59f2-e99a-4d28-bce0-ed56c9139e81 = 
 
-	//3720. ORIGINAL [Blue]: Looks like it°Øs been untouched since this shit started.
+	//3720. ORIGINAL [Blue]: Looks like itÔºäs been untouched since this shit started.
 	32c4d75d-f7e4-4788-ac9c-cea2d10fb8ac = 
 
-	//3721. ORIGINAL [Blue]: How this didn°Øt get taken in the first week or so, I couldn°Øt tell you.
+	//3721. ORIGINAL [Blue]: How this didnÔºät get taken in the first week or so, I couldnÔºät tell you.
 	5addb19c-acbb-4e17-a09e-4f83ad8a9941 = 
 
-	//3722. ORIGINAL [Blue]: I°Øm walking up the driveway now and ®C yep, there°Øs a biter here.
+	//3722. ORIGINAL [Blue]: IÔºäm walking up the driveway now and ÊØè yep, thereÔºäs a biter here.
 	c606a0c6-cb85-4c42-b2fa-a360e078408b = 
 
 	//3723. ORIGINAL [Blue]: One second, people.
@@ -11184,22 +11184,22 @@
 	//3724. ORIGINAL [#FF00C663]: HRAGH! HRAAAA-
 	3e4a7c5c-464b-4e54-b103-8d3e5a4f1f1a = 
 
-	//3725. ORIGINAL [Blue]: There we go. Gotta say, I°Øm getting better at killing them little by little.
+	//3725. ORIGINAL [Blue]: There we go. Gotta say, IÔºäm getting better at killing them little by little.
 	c97f47d4-3474-4f19-a3d3-b392cd17ee67 = 
 
 	//3726. ORIGINAL [Blue]: Took only three swings that time.
 	a42e89ef-601d-44ee-a0bc-0e8b9d56a81d = 
 
-	//3727. ORIGINAL [Blue]: This hammer°Øs starting show its age, though.
+	//3727. ORIGINAL [Blue]: This hammerÔºäs starting show its age, though.
 	41c61f4a-62f4-44ff-819f-fe2e7086c775 = 
 
-	//3728. ORIGINAL [Blue]: Don°Øt think it°Øll last much longer. Gonna need to go shopping for tools soon.
+	//3728. ORIGINAL [Blue]: DonÔºät think itÔºäll last much longer. Gonna need to go shopping for tools soon.
 	d6341a90-0bcd-4b50-94d8-87eeba94779d = 
 
-	//3729. ORIGINAL [Blue]: Anyway, let°Øs see if the door°Øs open°≠
+	//3729. ORIGINAL [Blue]: Anyway, letÔºäs see if the doorÔºäs openÔºÉ
 	22fe8815-0296-49fd-8715-98f29459aa93 = 
 
-	//3730. ORIGINAL [Blue]: I don°Øt wanna get my hopes up, but if this thing°Øs got the keys in it,
+	//3730. ORIGINAL [Blue]: I donÔºät wanna get my hopes up, but if this thingÔºäs got the keys in it,
 	9b3af878-aa9f-4295-a99a-dfb7026188cd = 
 
 	//3731. ORIGINAL [Blue]: I can finally stop walking everywhere and start making real distance.
@@ -11208,16 +11208,16 @@
 	//3732. ORIGINAL [Black]: *ka-click*
 	f1383add-7db5-44f9-9136-0c9d7121a492 = 
 
-	//3733. ORIGINAL [Blue]: Fuckin°Ø sweet. Now let°Øs take a look. Any keys in the - YES!
+	//3733. ORIGINAL [Blue]: FuckinÔºä sweet. Now letÔºäs take a look. Any keys in the - YES!
 	3581f4c6-fc41-4442-b400-92814b1415ef = 
 
-	//3734. ORIGINAL [Blue]: Sorry, shouldn°Øt be that loud out here, but holy fuck!
+	//3734. ORIGINAL [Blue]: Sorry, shouldnÔºät be that loud out here, but holy fuck!
 	46167616-3734-4fae-a979-7da3707d9731 = 
 
 	//3735. ORIGINAL [Blue]: Spare set of keys in the glovebox!
 	15a85e2c-e562-40e6-9a2c-0afe62c485b2 = 
 
-	//3736. ORIGINAL [Blue]: Alright people. It°Øs time for me to hit the road. The tank°Øs half full, can siphon more fuel as I go.
+	//3736. ORIGINAL [Blue]: Alright people. ItÔºäs time for me to hit the road. The tankÔºäs half full, can siphon more fuel as I go.
 	2a9c9bc7-6739-4b4a-88f5-024160e7ddeb = 
 
 	//3737. ORIGINAL [Blue]: I actually have a destination in mind, believe it or not.
@@ -11235,10 +11235,10 @@
 	//3741. ORIGINAL [Blue]: Mike out.
 	a81bfba5-e27b-4e4d-bed7-5bb19c89f75a = 
 
-	//3742. ORIGINAL [Blue]: Hey there, everyone. We°Øre almost through our first month here in living hell. How you been?
+	//3742. ORIGINAL [Blue]: Hey there, everyone. WeÔºäre almost through our first month here in living hell. How you been?
 	f5a62e37-3454-4cf4-a2ca-f0fb4284a1df = 
 
-	//3743. ORIGINAL [Blue]: I°Øm in West Virginia now. Been able to make real distance ever since getting that RV.
+	//3743. ORIGINAL [Blue]: IÔºäm in West Virginia now. Been able to make real distance ever since getting that RV.
 	bf7ce686-ade5-4496-8eb9-ad269eac28ed = 
 
 	//3744. ORIGINAL [Blue]: I know I said I was aiming for flatter landscapes,
@@ -11247,25 +11247,25 @@
 	//3745. ORIGINAL [Blue]: but I had this chat with a scavver a few days ago.
 	2aaec1d7-3481-4578-9ebb-b11aeb915cad = 
 
-	//3746. ORIGINAL [Blue]: Said he°Ød heard rumors bout this camp of friendlies some miles from here.
+	//3746. ORIGINAL [Blue]: Said heÔºäd heard rumors bout this camp of friendlies some miles from here.
 	6b4d15d6-b1f9-4863-8854-ef885e635d96 = 
 
-	//3747. ORIGINAL [Blue]: I°Øm thinking I could do a few jobs for em, maybe receive some fuel as payment.
+	//3747. ORIGINAL [Blue]: IÔºäm thinking I could do a few jobs for em, maybe receive some fuel as payment.
 	f070fd4b-7082-4ec4-8adc-4839eb0fabb4 = 
 
-	//3748. ORIGINAL [Blue]: It°Øs getting harder to find out here, as I°Øm sure you can imagine.
+	//3748. ORIGINAL [Blue]: ItÔºäs getting harder to find out here, as IÔºäm sure you can imagine.
 	9d659bce-76aa-4cb4-96af-a02f17591f93 = 
 
 	//3749. ORIGINAL [Blue]: Biggest challenge is just finding where the hell they are.
 	651b787d-2237-4725-afc8-28e6715d545f = 
 
-	//3750. ORIGINAL [Blue]: Dunno how long it°Øll take me, but I could use a place to kick my feet up for a couple weeks.
+	//3750. ORIGINAL [Blue]: Dunno how long itÔºäll take me, but I could use a place to kick my feet up for a couple weeks.
 	c30f48ef-6553-4e8d-9e2d-d9cffc294ad5 = 
 
-	//3751. ORIGINAL [Blue]: Not saying I°Øm planning in settling down or anything, having a big camp puts a target on your back. It°Øs just°≠
+	//3751. ORIGINAL [Blue]: Not saying IÔºäm planning in settling down or anything, having a big camp puts a target on your back. ItÔºäs justÔºÉ
 	6c813c1a-dc8c-49df-bf11-e4a1ce2e5563 = 
 
-	//3752. ORIGINAL [Blue]: I don°Øt wanna go back to walking again. I run outta fuel, I°Øm probably not gonna last too long.
+	//3752. ORIGINAL [Blue]: I donÔºät wanna go back to walking again. I run outta fuel, IÔºäm probably not gonna last too long.
 	8d5d1517-ca91-48e2-84ae-3fddd158f855 = 
 
 	//3753. ORIGINAL [Blue]: Spotted some fresh tire tracks heading southwest. Several tracks, actually. Looked like a convoy of some sort.
@@ -11277,19 +11277,19 @@
 	//3755. ORIGINAL [Blue]: Just might be people from that camp who left em. Been following the trail ever since.
 	be9ba752-559f-4954-b86b-7120980971ce = 
 
-	//3756. ORIGINAL [Blue]: I°Øm stopped in this bit of campgrounds in the forest here.
+	//3756. ORIGINAL [Blue]: IÔºäm stopped in this bit of campgrounds in the forest here.
 	882af0cb-abdd-4c76-a3df-ac7b8d132309 = 
 
-	//3757. ORIGINAL [Blue]: Just taking a rest for the night. It°Øs so quiet out here it°Øs°≠ peaceful.
+	//3757. ORIGINAL [Blue]: Just taking a rest for the night. ItÔºäs so quiet out here itÔºäsÔºÉ peaceful.
 	0f3b1b79-a779-45b1-8dd1-65767e085c8d = 
 
-	//3758. ORIGINAL [Blue]: I°Øve had an eventful couple of days, lemme tell ya. Scored quite the haul in loot this week.
+	//3758. ORIGINAL [Blue]: IÔºäve had an eventful couple of days, lemme tell ya. Scored quite the haul in loot this week.
 	28304d35-e06e-4db4-9dce-57964642d5e6 = 
 
 	//3759. ORIGINAL [Blue]: Hell, I hit the fuckin jackpot.
 	4a28dc79-ae2d-4220-8d19-d8727e37c830 = 
 
-	//3760. ORIGINAL [Blue]: Found this military complex just off the highway, must°Øve been using it as an evac point or something.
+	//3760. ORIGINAL [Blue]: Found this military complex just off the highway, mustÔºäve been using it as an evac point or something.
 	0502ae49-239f-48f9-9c1d-d37038661c5f = 
 
 	//3761. ORIGINAL [Blue]: Needless to say, they all turned.
@@ -11298,7 +11298,7 @@
 	//3762. ORIGINAL [Blue]: Took me a few hours, but I was able to lure a few of the soldiers away and out the front gate.
 	93114b2d-2fec-46be-b87d-e3918df97524 = 
 
-	//3763. ORIGINAL [Blue]: They were packing some heavy firepower. Intimidating kind of hardware. Gonna just run through the list here°≠
+	//3763. ORIGINAL [Blue]: They were packing some heavy firepower. Intimidating kind of hardware. Gonna just run through the list hereÔºÉ
 	d21a03bc-8e9d-4143-b01c-551072d6995c = 
 
 	//3764. ORIGINAL [Blue]: Got this M16 with five extra magazines. Four extra boxes of 556 along with a machete and military grade backpack.
@@ -11307,34 +11307,34 @@
 	//3765. ORIGINAL [Blue]: Four grenades, too.
 	81c90be2-2c38-40e0-b372-5ee7b6e52ddc = 
 
-	//3766. ORIGINAL [Blue]: I°Øm almost afraid to keep these things on this ammo vest, if I were to get shot at and the bullet were to hit one of them, well,
+	//3766. ORIGINAL [Blue]: IÔºäm almost afraid to keep these things on this ammo vest, if I were to get shot at and the bullet were to hit one of them, well,
 	ab500695-9a8f-41f8-898f-2086a2cdd864 = 
 
 	//3767. ORIGINAL [Blue]: you can imagine the result.
 	ec359061-7a48-4e30-af1e-242e4d9762ba = 
 
-	//3768. ORIGINAL [Blue]: Now, for those of you thinking of coming after me to try and take this stuff, keep in mind that I didn°Øt loot the entire camp.
+	//3768. ORIGINAL [Blue]: Now, for those of you thinking of coming after me to try and take this stuff, keep in mind that I didnÔºät loot the entire camp.
 	e0fad62a-30fa-4f70-ab0f-89b183effd2b = 
 
-	//3769. ORIGINAL [Blue]: There°Øs still a lot of shit left in there.
+	//3769. ORIGINAL [Blue]: ThereÔºäs still a lot of shit left in there.
 	d34111ef-5fa8-4234-8003-06807552090f = 
 
-	//3770. ORIGINAL [Blue]: Whoever°Øs got the stones to try and clear it out, be my guest. I won°Øt be here for much longer.
+	//3770. ORIGINAL [Blue]: WhoeverÔºäs got the stones to try and clear it out, be my guest. I wonÔºät be here for much longer.
 	63ae99f6-49c5-4356-81fc-9564e2a6f152 = 
 
-	//3771. ORIGINAL [Blue]: There°Øs a supermarket a few miles south but I°Øm not gonna bother with it.
+	//3771. ORIGINAL [Blue]: ThereÔºäs a supermarket a few miles south but IÔºäm not gonna bother with it.
 	15649194-18d8-430d-bab7-f6fdf8419586 = 
 
-	//3772. ORIGINAL [Blue]: I°Øm set for at least another month and a half if I don°Øt ration.
+	//3772. ORIGINAL [Blue]: IÔºäm set for at least another month and a half if I donÔºät ration.
 	e1a03263-5814-4c61-af7f-00759c2a2ebc = 
 
 	//3773. ORIGINAL [Blue]: There was a huge haul of food from one of the houses a couple dozen miles back.
 	c1da37d5-c43b-4bf7-af77-43f4b38a1ab5 = 
 
-	//3774. ORIGINAL [Blue]: Guessing the owner got the fever. A pity, guy would°Øve been sitting pretty if he°Ød been immune.
+	//3774. ORIGINAL [Blue]: Guessing the owner got the fever. A pity, guy wouldÔºäve been sitting pretty if heÔºäd been immune.
 	03bfe056-7b1e-463b-9522-9b27e0f2cca4 = 
 
-	//3775. ORIGINAL [Blue]: Anyway, it°Øs time I got some shut-eye. I continue my search for this elusive camp tomorrow.
+	//3775. ORIGINAL [Blue]: Anyway, itÔºäs time I got some shut-eye. I continue my search for this elusive camp tomorrow.
 	1816f98a-9255-4ed3-a433-b3dfa636cb14 = 
 
 	//3776. ORIGINAL [Blue]: Talk to you next week everyone. Mike out.
@@ -11349,10 +11349,10 @@
 	//3779. ORIGINAL [Blue]: Got here four days ago.
 	aafccb13-96b0-4202-b20b-783bcccee1fd = 
 
-	//3780. ORIGINAL [Blue]: A good distance outside Flatwoods, won°Øt get into the specifics.
+	//3780. ORIGINAL [Blue]: A good distance outside Flatwoods, wonÔºät get into the specifics.
 	fd23bf58-e504-48c8-80f3-0c735d86c415 = 
 
-	//3781. ORIGINAL [Blue]: They were quite cautious of me at first, given the hardware I°Øm packing, but eased up a bit once they realized I was friendly.
+	//3781. ORIGINAL [Blue]: They were quite cautious of me at first, given the hardware IÔºäm packing, but eased up a bit once they realized I was friendly.
 	4a8847b0-6887-4c50-b1d3-2f14b748c2d6 = 
 
 	//3782. ORIGINAL [Blue]: Turns out, they do something they need done, and they said they can give me the fuel I need if I succeed.
@@ -11367,22 +11367,22 @@
 	//3785. ORIGINAL [Blue]: Apparently they got overrun. All those supplies, held hostage by a mob of biters.
 	cef287c8-4433-45bb-b780-3a716faf90a9 = 
 
-	//3786. ORIGINAL [Blue]: They°Øre assuming he didn°Øt make it, so if I find him dead I should bring back his pocket knife as proof.
+	//3786. ORIGINAL [Blue]: TheyÔºäre assuming he didnÔºät make it, so if I find him dead I should bring back his pocket knife as proof.
 	14f7d3a1-1f66-42b7-a7bf-a7f61066d7e5 = 
 
 	//3787. ORIGINAL [Blue]: Got some custom engravings on it, easy to identify.
 	95069f93-39ec-4c0e-a0d3-3919163ee1d3 = 
 
-	//3788. ORIGINAL [Blue]: So, that°Øs where I°Øm heading tomorrow. I°Øll fill you in on the details next week.
+	//3788. ORIGINAL [Blue]: So, thatÔºäs where IÔºäm heading tomorrow. IÔºäll fill you in on the details next week.
 	9788be26-b3ea-4ea6-8b8b-30fc2bb819f6 = 
 
 	//3789. ORIGINAL [Blue]: Mike here.
 	8a1512c1-4bfe-4074-ae3f-df6f0dcdd31e = 
 
-	//3790. ORIGINAL [Blue]: Wish I was broadcasting under better circumstances but this is the hand I°Øve been dealt, unfortunately.
+	//3790. ORIGINAL [Blue]: Wish I was broadcasting under better circumstances but this is the hand IÔºäve been dealt, unfortunately.
 	2d1dc71b-6ed4-4516-9512-1880f2b17eb8 = 
 
-	//3791. ORIGINAL [Blue]: Since last time shit°Øs kinda gone downhill.
+	//3791. ORIGINAL [Blue]: Since last time shitÔºäs kinda gone downhill.
 	80e4ddf8-7022-4920-bfc9-676120eb4ec1 = 
 
 	//3792. ORIGINAL [Blue]: I found that missing fella the leader of this camp told me about.
@@ -11394,10 +11394,10 @@
 	//3794. ORIGINAL [Blue]: Only took me a couple days to get the job done. A lot went down while I was gone.
 	2e9f92d3-63ec-4a53-b914-80eae3b5fb32 = 
 
-	//3795. ORIGINAL [Blue]: Turns out this group°Øs leader°Øs been keeping secrets from the rest of his people.
+	//3795. ORIGINAL [Blue]: Turns out this groupÔºäs leaderÔºäs been keeping secrets from the rest of his people.
 	6cf92cda-fb78-49e0-aaf1-b065d2f19401 = 
 
-	//3796. ORIGINAL [Blue]: He°Øs been doing some deals with bandits behind their backs.
+	//3796. ORIGINAL [Blue]: HeÔºäs been doing some deals with bandits behind their backs.
 	7974a9a2-4df4-4ece-939a-eb8783663113 = 
 
 	//3797. ORIGINAL [Blue]: Was slipping them their produce, the occasional bottle of pills. Stuff that would go unnoticed in small quantities.
@@ -11415,7 +11415,7 @@
 	//3801. ORIGINAL [Blue]: Unfortunately, my RV was one of the things they took.
 	1570a0b0-f931-438d-8612-eeb6e9262d40 = 
 
-	//3802. ORIGINAL [Blue]: I°Øm now back to square one.
+	//3802. ORIGINAL [Blue]: IÔºäm now back to square one.
 	92d10086-3acd-4ad6-94e3-e97316786f3d = 
 
 	//3803. ORIGINAL [Blue]: That RV had ALL my shit in it.
@@ -11427,22 +11427,22 @@
 	//3805. ORIGINAL [Blue]: The works.
 	b6f36cc7-9cf6-4b90-be8b-59173cf38165 = 
 
-	//3806. ORIGINAL [Blue]: All I°Øve got now is what I had in my backpack.
+	//3806. ORIGINAL [Blue]: All IÔºäve got now is what I had in my backpack.
 	b009e63f-9144-4db2-880d-d6e73d9eb254 = 
 
-	//3807. ORIGINAL [Blue]: And it ain°Øt much.
+	//3807. ORIGINAL [Blue]: And it ainÔºät much.
 	7e878106-3b9e-491a-a687-3fca5461e9e9 = 
 
 	//3808. ORIGINAL [Blue]: Couple days worth of rations, a half empty bottle of water.
 	6d7e2323-0cd5-4481-b4d5-2711ac538a63 = 
 
-	//3809. ORIGINAL [Blue]: M16 with three spare mags, my pistol, and machete. That°Øs it.
+	//3809. ORIGINAL [Blue]: M16 with three spare mags, my pistol, and machete. ThatÔºäs it.
 	e6025e55-5fd1-49ad-9076-69a55b5dea02 = 
 
-	//3810. ORIGINAL [Blue]: I°≠ unfortunately have no choice but to get involved now.
+	//3810. ORIGINAL [Blue]: IÔºÉ unfortunately have no choice but to get involved now.
 	d47aea1a-05cd-46aa-92e2-e249fea063ea = 
 
-	//3811. ORIGINAL [Blue]: I°Øm going to help this asshat bring down these bandits, and then I°Øm going to take my pick of the spoils when it°Øs over.
+	//3811. ORIGINAL [Blue]: IÔºäm going to help this asshat bring down these bandits, and then IÔºäm going to take my pick of the spoils when itÔºäs over.
 	39e177e0-6678-4b58-948a-4833f60f504c = 
 
 	//3812. ORIGINAL [Blue]: And I will be walking away with more than I arrived with, that I promise you.
@@ -11460,10 +11460,10 @@
 	//3816. ORIGINAL [Blue]: Mike here again.
 	51c5e4f6-c264-4590-b3dd-1725f3017e26 = 
 
-	//3817. ORIGINAL [Blue]: Adrenaline°Øs still pumping after what happened today.
+	//3817. ORIGINAL [Blue]: AdrenalineÔºäs still pumping after what happened today.
 	0abaa514-2824-4407-b2ed-e19d1902a2bf = 
 
-	//3818. ORIGINAL [Blue]: Went scouting with three others from the group whose names I°Øve yet to learn. Was an ambush.
+	//3818. ORIGINAL [Blue]: Went scouting with three others from the group whose names IÔºäve yet to learn. Was an ambush.
 	b6ca0367-2bbf-4659-a818-3bbb8440a9a4 = 
 
 	//3819. ORIGINAL [Blue]: The woman that was with us went down instantly.
@@ -11472,10 +11472,10 @@
 	//3820. ORIGINAL [Blue]: They got her right in the head.
 	07b1edac-810f-4134-9d44-3ba2bad61212 = 
 
-	//3821. ORIGINAL [Blue]: Christ, I can°Øt get the image outta my head. She went down like a ton of lead.
+	//3821. ORIGINAL [Blue]: Christ, I canÔºät get the image outta my head. She went down like a ton of lead.
 	ec760ce5-f3f4-4e31-b299-3ee9e4b3f965 = 
 
-	//3822. ORIGINAL [Blue]: It°Øs an unsettling thing to witness, just watch someone fall off their feet dead instantly.
+	//3822. ORIGINAL [Blue]: ItÔºäs an unsettling thing to witness, just watch someone fall off their feet dead instantly.
 	d78f92f2-99ea-4b3b-a0c2-be41121d373e = 
 
 	//3823. ORIGINAL [Blue]: We dove behind trees and were firing into the brush blind at first.
@@ -11490,16 +11490,16 @@
 	//3826. ORIGINAL [Blue]: They left a pretty easy to follow trail, though, pretty sure it leads right back to their camp.
 	2cf7b4da-b26f-473f-b527-2169dc1e28e1 = 
 
-	//3827. ORIGINAL [Blue]: While I°Øm talking about gunfights and such, I°Øve got a bit of advice for those of you not yet used to this sort of thing.
+	//3827. ORIGINAL [Blue]: While IÔºäm talking about gunfights and such, IÔºäve got a bit of advice for those of you not yet used to this sort of thing.
 	e09d6c37-05b8-484c-8e2b-751b7c722857 = 
 
-	//3828. ORIGINAL [Blue]: No doubt you°Øve gotten your hands on at least one gun by now.
+	//3828. ORIGINAL [Blue]: No doubt youÔºäve gotten your hands on at least one gun by now.
 	f0b2313d-6be7-4f8a-9292-9fc451eb2a35 = 
 
 	//3829. ORIGINAL [Blue]: Plenty of cops shambling around with one strapped in the holster.
 	f86c243e-672e-4a88-8967-878c3b4757f4 = 
 
-	//3830. ORIGINAL [Blue]: Guns tend to sway when you°Øre lining up a shot.
+	//3830. ORIGINAL [Blue]: Guns tend to sway when youÔºäre lining up a shot.
 	32758a56-8120-4a71-90b2-4240e0f7c616 = 
 
 	//3831. ORIGINAL [Blue]: Makes it difficult to ensure the bullet hits its target in the right place.
@@ -11508,52 +11508,52 @@
 	//3832. ORIGINAL [Blue]: Taking too long to aim will get you killed in a firefight.
 	b344528c-ff66-41eb-b8a5-e89596df156b = 
 
-	//3833. ORIGINAL [Blue]: Picked up a trick from this group°Øs best marksman, a fella named Jacob.
+	//3833. ORIGINAL [Blue]: Picked up a trick from this groupÔºäs best marksman, a fella named Jacob.
 	558db96c-80fe-422d-b0f7-0da343273fbb = 
 
-	//3834. ORIGINAL [Blue]: When you°Øre lining up a shot, take a tiny breath before pulling the trigger.
+	//3834. ORIGINAL [Blue]: When youÔºäre lining up a shot, take a tiny breath before pulling the trigger.
 	63b578ad-2cdb-4472-9f32-edf343e24ac8 = 
 
 	//3835. ORIGINAL [Blue]: Sounds silly, I know, but it keeps the gun from swaying as much.
 	b084484a-1453-4f5d-ab14-a3dbbe41a8b3 = 
 
-	//3836. ORIGINAL [Blue]: If I hadn°Øt learned this trick from Jacob, well, let°Øs just say things might°Øve turned out a lot shittier for me today.
+	//3836. ORIGINAL [Blue]: If I hadnÔºät learned this trick from Jacob, well, letÔºäs just say things mightÔºäve turned out a lot shittier for me today.
 	bbb416cc-4733-47d5-8b8a-cac916af613d = 
 
 	//3837. ORIGINAL [Blue]: Anyway, The Bee Run recreational site is where these bandits are hiding. Some campgrounds alongside the Elk River.
 	9b8b0faf-e2b6-4df5-a28e-a6c780dfcead = 
 
-	//3838. ORIGINAL [Blue]: My RV°Øs gotta be there. I°Øm taking a very generous cut of the spoils once this shit°Øs done and settled, though.
+	//3838. ORIGINAL [Blue]: My RVÔºäs gotta be there. IÔºäm taking a very generous cut of the spoils once this shitÔºäs done and settled, though.
 	e392c83c-4b9a-4506-b5f4-5775636cedfd = 
 
-	//3839. ORIGINAL [Blue]: Would°Øve been miles from this place by now, if not for the prick in charge.
+	//3839. ORIGINAL [Blue]: WouldÔºäve been miles from this place by now, if not for the prick in charge.
 	4ed2be9b-a417-4339-a5e2-fda0502daf08 = 
 
-	//3840. ORIGINAL [Blue]: Anyway, I°Øll talk to you folks next week.
+	//3840. ORIGINAL [Blue]: Anyway, IÔºäll talk to you folks next week.
 	f97319ac-677a-4dd9-8623-98f53bee1d7c = 
 
-	//3841. ORIGINAL [Blue]: Hopefully, I°Øll be on the road again, and things can get back to what passes as normal for me these days.
+	//3841. ORIGINAL [Blue]: Hopefully, IÔºäll be on the road again, and things can get back to what passes as normal for me these days.
 	16722396-4536-47d8-9c65-817ddd5d8384 = 
 
-	//3842. ORIGINAL [Blue]: Well, everyone, it°Øs done. We wiped them out.
+	//3842. ORIGINAL [Blue]: Well, everyone, itÔºäs done. We wiped them out.
 	0cb68913-e573-4906-ae54-ce57fb993ce0 = 
 
 	//3843. ORIGINAL [Blue]: So many guns going off at once, my ears are still fucking ringing.
 	2be8cc61-6074-4bea-b92e-659a58c5e55a = 
 
-	//3844. ORIGINAL [Blue]: It just ended a moment ago. There were°≠ a lot of casualties. On both sides.
+	//3844. ORIGINAL [Blue]: It just ended a moment ago. There wereÔºÉ a lot of casualties. On both sides.
 	c60622eb-301a-449a-9a62-27ba399049d4 = 
 
-	//3845. ORIGINAL [Blue]: Christ, I think it°Øs just me and the asshole leader of this group. He°Øs checking the injured right now.
+	//3845. ORIGINAL [Blue]: Christ, I think itÔºäs just me and the asshole leader of this group. HeÔºäs checking the injured right now.
 	906a4daa-dd7a-4369-8d04-d3b0daf1e109 = 
 
 	//3846. ORIGINAL [Blue]: The fucker was just hiding behind a tree for the whole thing.
 	c4fe7d35-b5c6-4e8a-b9e3-c96abaf4857c = 
 
-	//3847. ORIGINAL [Blue]: I don°Øt think he fired a single shot. Gutless as always.
+	//3847. ORIGINAL [Blue]: I donÔºät think he fired a single shot. Gutless as always.
 	71c8bdb4-3bb8-4adc-9e57-31b6777f7ce8 = 
 
-	//3848. ORIGINAL [Blue]: My RV°Øs here, though. TONS of supplies for the taking. I°Øm gonna just take my share and get moving.
+	//3848. ORIGINAL [Blue]: My RVÔºäs here, though. TONS of supplies for the taking. IÔºäm gonna just take my share and get moving.
 	eeffb0e3-d771-4dd5-baed-e5f13ed6a93e = 
 
 	//3849. ORIGINAL [Black]: *gun cocks*
@@ -11562,7 +11562,7 @@
 	//3850. ORIGINAL [Blue]: What the fu-
 	3b7a8490-75bf-42e4-b24c-c79d34ce8608 = 
 
-	//3851. ORIGINAL [#FFD29D4F]: You°Øre not leaving, asshole! You°Øre the one who wanted us to fight back!
+	//3851. ORIGINAL [#FFD29D4F]: YouÔºäre not leaving, asshole! YouÔºäre the one who wanted us to fight back!
 	26a253b8-740c-4aec-a846-53b31a12adf4 = 
 
 	//3852. ORIGINAL [#FFD29D4F]: EVERYONE is dead now, because we did what you said!
@@ -11571,10 +11571,10 @@
 	//3853. ORIGINAL [#FFD29D4F]: THIS IS YOUR FAULT, YOU HEAR ME?!
 	6c071f7f-f163-45fb-a252-be7320933c20 = 
 
-	//3854. ORIGINAL [Blue]: No, it isn°Øt. You kept slipping these assholes supplies, without your group°Øs knowledge. You emboldened th-
+	//3854. ORIGINAL [Blue]: No, it isnÔºät. You kept slipping these assholes supplies, without your groupÔºäs knowledge. You emboldened th-
 	4b1e799f-7378-43dc-b053-8d15bb263fed = 
 
-	//3855. ORIGINAL [#FFD29D4F]: SHUT THE FUCK UP! I SHOULD°ØVE DONE THIS THE MOMENT I SAW-
+	//3855. ORIGINAL [#FFD29D4F]: SHUT THE FUCK UP! I SHOULDÔºäVE DONE THIS THE MOMENT I SAW-
 	8ce861c8-a29e-497a-9e04-75b938d40504 = 
 
 	//3856. ORIGINAL [#FF00C663]: HRAGH! HRAAAAGH!
@@ -11589,10 +11589,10 @@
 	//3859. ORIGINAL [Blue]: It was him or me, people. Had no choice.
 	d8052dce-f739-4f08-ab28-3522eba641c7 = 
 
-	//3860. ORIGINAL [Blue]: I°Øm°≠ not too sure if my RV will be able to fit all these supplies, but I°Øll sure as hell try.
+	//3860. ORIGINAL [Blue]: IÔºämÔºÉ not too sure if my RV will be able to fit all these supplies, but IÔºäll sure as hell try.
 	88518ec7-d6b4-494a-adef-7444c5053648 = 
 
-	//3861. ORIGINAL [Blue]: I°Øm gonna cut it short here, gotta pack this shit up before more biters get drawn to those shots.
+	//3861. ORIGINAL [Blue]: IÔºäm gonna cut it short here, gotta pack this shit up before more biters get drawn to those shots.
 	07ac25e6-f62c-4998-be1d-75042b1c7dee = 
 
 	//3862. ORIGINAL [#FFD29D4F]: *gurgle*
@@ -12117,7 +12117,7 @@
 	//4035. ORIGINAL [Blue]: [img=music]The city she loves me[img=music]
 	513d65ed-7861-401b-b462-bc1636108cba = 
 
-	//4036. ORIGINAL [Blue]: [img=music]Take me°≠ [img=music]
+	//4036. ORIGINAL [Blue]: [img=music]Take meÔºÉ [img=music]
 	d3d42e9e-4db0-4d21-b81f-c172cf4c4f6d = 
 
 	//4037. ORIGINAL [#FF408080]: [img=music]I've got the demons in me[img=music]
