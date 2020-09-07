@@ -79,7 +79,7 @@
 	81a2b5ff-dc1d-4afa-be8b-66f4f1a9bdcd = 
 
 	//23. ORIGINAL [#FFFF80C0]: I'd play you some of our music... ya know...
-	0fcbc6c1-7785-47f4-b6a0-1186b3cb3855 = 
+	0fcbc6c1-7785-47f4-b6a0-1186b3cb3855 = 我会给你们演奏一些音乐的...你们知道吗...
 
 	//24. ORIGINAL [#FFFF80C0]: if we ever got around to fuckin' recording before the
 	28b15025-c8d1-4671-ba8d-9117ff94649c = 
